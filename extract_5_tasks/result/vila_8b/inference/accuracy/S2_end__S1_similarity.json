@@ -1,0 +1,17 @@
+{
+  "ckpt": "S2_end",
+  "task": "S1_similarity",
+  "kind": "similarity",
+  "n": 78,
+  "parsed": 78,
+  "parse_ratio": 1.0,
+  "mse": 1.2820512820512816e-06,
+  "mae": 0.00012820512820512818,
+  "rmse": 0.0011322770341445955,
+  "r2": 0.9999780342328033,
+  "pearson": 0.999989240959577,
+  "pearson_sq": 0.9999784820349109,
+  "spearman": 0.9992358977535637,
+  "accuracy": null,
+  "f1": null
+}

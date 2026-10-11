@@ -1,0 +1,11 @@
+{
+  "model": "fwd__S1_mid",
+  "model_path": "/home/hail/vlm3/checkpoint/Qwen25VL_7B/S1_Similarity/checkpoint-1563",
+  "losses": {
+    "S0": 0.127437550004496,
+    "S1": 0.17620363578796386,
+    "S2": 1.7233113602638244,
+    "S3": 3.3748838645935058,
+    "S4": 2.6323732923507692
+  }
+}

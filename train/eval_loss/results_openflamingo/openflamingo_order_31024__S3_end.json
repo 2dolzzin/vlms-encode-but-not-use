@@ -1,0 +1,11 @@
+{
+  "model": "openflamingo_order_31024__S3_end",
+  "model_path": "/home/hail/vlm3/train/eval_loss/_tmp_out_openflamingo",
+  "losses": {
+    "S0": 4.079400062561035,
+    "S1": 4.639200210571289,
+    "S2": 3.5373001098632812,
+    "S3": 0.0013475635787472129,
+    "S4": 2.348249912261963
+  }
+}

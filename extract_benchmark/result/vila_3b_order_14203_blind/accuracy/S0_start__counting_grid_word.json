@@ -1,0 +1,11 @@
+{
+  "ckpt": "S0_start",
+  "task": "counting_grid_word",
+  "kind": "grid",
+  "n": 264,
+  "parsed": 247,
+  "parse_ratio": 0.9356060606060606,
+  "accuracy": 0.03409090909090909,
+  "row_acc": 0.10606060606060606,
+  "col_acc": 0.11363636363636363
+}

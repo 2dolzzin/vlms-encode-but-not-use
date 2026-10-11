@@ -1,0 +1,11 @@
+{
+  "model": "rev__S1_end",
+  "model_path": "/home/hail/vlm3/checkpoint/Qwen25VL_7B_reverse/S1_Similarity/end",
+  "losses": {
+    "S0": 1.8583721090316772,
+    "S1": 0.16782396478652953,
+    "S2": 0.12054912335410627,
+    "S3": 0.722335231577704,
+    "S4": 0.4884053485624725
+  }
+}

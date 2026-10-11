@@ -1,0 +1,11 @@
+{
+  "model": "rev__S3_mid",
+  "model_path": "/home/hail/vlm3/checkpoint/Qwen25VL_7B_reverse/S3_Naming/checkpoint-1563",
+  "losses": {
+    "S0": 1.6027186307907104,
+    "S1": 2.413466887664795,
+    "S2": 1.9636816071510315,
+    "S3": 0.05593037343805918,
+    "S4": 0.3802980286219343
+  }
+}

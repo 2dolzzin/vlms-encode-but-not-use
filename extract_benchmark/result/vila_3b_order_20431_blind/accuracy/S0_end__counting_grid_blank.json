@@ -1,0 +1,11 @@
+{
+  "ckpt": "S0_end",
+  "task": "counting_grid_blank",
+  "kind": "grid",
+  "n": 264,
+  "parsed": 132,
+  "parse_ratio": 0.5,
+  "accuracy": 0.015151515151515152,
+  "row_acc": 0.03787878787878788,
+  "col_acc": 0.03787878787878788
+}

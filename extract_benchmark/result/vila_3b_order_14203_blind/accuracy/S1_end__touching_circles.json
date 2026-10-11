@@ -1,0 +1,11 @@
+{
+  "ckpt": "S1_end",
+  "task": "touching_circles",
+  "kind": "binary",
+  "n": 1344,
+  "accuracy": 0.7596726190476191,
+  "f1": 0.46820268255603564,
+  "parsed": 1344,
+  "parse_ratio": 1.0,
+  "correct": 1021
+}

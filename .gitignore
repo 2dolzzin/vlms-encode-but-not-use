@@ -1,0 +1,50 @@
+# ───────────── 대용량 / 재생성 가능 산출물 (서버에만 보관) ─────────────
+# 학습 체크포인트 (3T+)
+checkpoint/
+# 서드파티 모델 코드·가중치 (각자 clone / HF 다운로드; README 참고)
+Model/
+
+# 추론 결과: 임베딩·원문 응답은 제외, 채점 요약(accuracy/)만 추적
+extract_5_tasks/result*/
+!extract_5_tasks/result/
+extract_5_tasks/result/*/*
+!extract_5_tasks/result/*/inference/
+extract_5_tasks/result/*/inference/*
+!extract_5_tasks/result/*/inference/accuracy/
+extract_benchmark/result*/
+!extract_benchmark/result/
+extract_benchmark/result/*/*
+!extract_benchmark/result/*/accuracy/
+extract_benchmark/_backup*/
+
+# 프로빙 원시 결과(json, 3시드) — 집계본은 csv_out/ 에 있음. 표(tables/)와 md 는 추적
+probing/*/
+!probing/logs/
+!probing/tables/
+!probing/rebuttal_exp/
+probing/result_expB_s4/
+probing/logs/
+probing/wandb/
+
+# eval loss 중간 산출물 (results_*/ 의 json 요약은 추적)
+train/eval_loss/_tmp_out_*/
+train/eval_loss/logs_forgetting/
+train/eval_loss/wandb/
+train/*/wandb/
+
+# 로그
+eval_logs/
+*.log
+train/qwen25vl_curriculum/log_*.txt
+
+# figure: png 는 pdf 로부터 재생성되므로 제외 (pdf 만 추적)
+figure/**/*.png
+
+# ───────────── 환경 / 에디터 / 캐시 ─────────────
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.claude/
+.DS_Store
+*.swp

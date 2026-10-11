@@ -1,0 +1,16 @@
+kind,task,prior,prior_sd,proj,maxlm,inf,img_signal_lm,gained_in_lm,beyond_probe,regime
+battery,S0_logamr,0.0667,0.0,0.1277,0.8934,0.4047,0.8267,0.7657,-0.4886,readout - assembled inside LM
+battery,S1_similarity,0.7998,0.0,0.9649,0.9596,0.7856,0.1598,-0.0053,-0.174,readout - already linear at projector
+battery,S2_ishihara,0.0902,0.0047,0.5359,0.5451,0.3587,0.4549,0.0092,-0.1864,readout - already linear at projector
+battery,S3_naming,0.2173,0.0028,0.8694,0.8979,0.678,0.6806,0.0286,-0.2199,readout - already linear at projector
+battery,S4_depth,0.2851,0.0,0.2479,0.3408,0.3241,0.0557,0.0929,-0.0167,absent (at no-image floor)
+benchmark,circled_letter,0.0962,0.0,0.9929,0.976,0.0575,0.8798,-0.0169,-0.9185,readout - already linear at projector
+benchmark,counting_grid_blank,0.044,0.0025,0.9919,0.9455,0.0344,0.9015,-0.0464,-0.9111,readout - already linear at projector
+benchmark,counting_grid_word,0.044,0.0025,0.9946,0.9746,0.0351,0.9306,-0.0201,-0.9394,readout - already linear at projector
+benchmark,line_plot,0.3333,0.0,0.9997,0.9988,0.234,0.6655,-0.0008,-0.7648,readout - already linear at projector
+benchmark,mmvp,0.2027,0.0008,0.1027,0.2595,0.4746,0.0568,0.1568,0.2152,generated at decoding
+benchmark,nested_squares,0.25,0.0,0.9841,0.9574,0.152,0.7074,-0.0266,-0.8055,readout - already linear at projector
+benchmark,olympic_circles,0.198,0.0002,0.9953,0.9845,0.0984,0.7866,-0.0107,-0.8861,readout - already linear at projector
+benchmark,olympic_pentagons,0.198,0.0002,0.9947,0.9878,0.0254,0.7898,-0.0069,-0.9624,readout - already linear at projector
+benchmark,subway_connections,0.6111,0.0,0.9153,0.9613,0.229,0.3502,0.0461,-0.7324,readout - already linear at projector
+benchmark,touching_circles,0.75,0.0,0.9526,0.9949,0.5723,0.2449,0.0423,-0.4226,readout - already linear at projector

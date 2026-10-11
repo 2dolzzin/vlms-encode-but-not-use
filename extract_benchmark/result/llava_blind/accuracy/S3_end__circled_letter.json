@@ -1,0 +1,11 @@
+{
+  "ckpt": "S3_end",
+  "task": "circled_letter",
+  "kind": "letter",
+  "n": 624,
+  "accuracy": 0.060897435897435896,
+  "f1": 0.035613381496123246,
+  "parsed": 558,
+  "parse_ratio": 0.8942307692307693,
+  "correct": 38
+}

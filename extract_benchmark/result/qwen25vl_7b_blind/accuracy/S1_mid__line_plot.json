@@ -1,0 +1,11 @@
+{
+  "ckpt": "S1_mid",
+  "task": "line_plot",
+  "kind": "count",
+  "n": 3600,
+  "accuracy": 0.46305555555555555,
+  "f1": 0.4343761020269934,
+  "parsed": 3403,
+  "parse_ratio": 0.9452777777777778,
+  "correct": 1667
+}

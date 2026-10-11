@@ -1,0 +1,1654 @@
+{
+  "chips": [
+    {
+      "category": "beige",
+      "hex": "f3e4ca",
+      "nearest_other_cat_de2000": 7.9499760598407585
+    },
+    {
+      "category": "beige",
+      "hex": "f5e3ce",
+      "nearest_other_cat_de2000": 6.624793429412073
+    },
+    {
+      "category": "beige",
+      "hex": "f6e2d2",
+      "nearest_other_cat_de2000": 4.10066116732086
+    },
+    {
+      "category": "beige",
+      "hex": "f6e2d7",
+      "nearest_other_cat_de2000": 1.815238647636801
+    },
+    {
+      "category": "black",
+      "hex": "272727",
+      "nearest_other_cat_de2000": 9.500476390775352
+    },
+    {
+      "category": "black",
+      "hex": "2e3326",
+      "nearest_other_cat_de2000": 3.723030828680722
+    },
+    {
+      "category": "black",
+      "hex": "303324",
+      "nearest_other_cat_de2000": 2.4387372884137486
+    },
+    {
+      "category": "black",
+      "hex": "313131",
+      "nearest_other_cat_de2000": 7.5366718124561665
+    },
+    {
+      "category": "black",
+      "hex": "353220",
+      "nearest_other_cat_de2000": 1.4653375271471236
+    },
+    {
+      "category": "black",
+      "hex": "383120",
+      "nearest_other_cat_de2000": 2.2043209973690168
+    },
+    {
+      "category": "blue",
+      "hex": "003167",
+      "nearest_other_cat_de2000": 11.763514799017763
+    },
+    {
+      "category": "blue",
+      "hex": "003459",
+      "nearest_other_cat_de2000": 14.36791753427726
+    },
+    {
+      "category": "blue",
+      "hex": "003657",
+      "nearest_other_cat_de2000": 15.349624734208739
+    },
+    {
+      "category": "blue",
+      "hex": "003740",
+      "nearest_other_cat_de2000": 3.6508624943450645
+    },
+    {
+      "category": "blue",
+      "hex": "003743",
+      "nearest_other_cat_de2000": 5.425368487226555
+    },
+    {
+      "category": "blue",
+      "hex": "003755",
+      "nearest_other_cat_de2000": 14.492210207510329
+    },
+    {
+      "category": "blue",
+      "hex": "00498d",
+      "nearest_other_cat_de2000": 14.606898397909005
+    },
+    {
+      "category": "blue",
+      "hex": "004c8c",
+      "nearest_other_cat_de2000": 15.573939169674848
+    },
+    {
+      "category": "blue",
+      "hex": "004f6e",
+      "nearest_other_cat_de2000": 11.949861299499634
+    },
+    {
+      "category": "blue",
+      "hex": "004f7d",
+      "nearest_other_cat_de2000": 16.878408206395644
+    },
+    {
+      "category": "blue",
+      "hex": "00516a",
+      "nearest_other_cat_de2000": 9.3069140729068
+    },
+    {
+      "category": "blue",
+      "hex": "005265",
+      "nearest_other_cat_de2000": 6.525693435900455
+    },
+    {
+      "category": "blue",
+      "hex": "005360",
+      "nearest_other_cat_de2000": 3.546502858983933
+    },
+    {
+      "category": "blue",
+      "hex": "0066a4",
+      "nearest_other_cat_de2000": 17.83140498969333
+    },
+    {
+      "category": "blue",
+      "hex": "006a93",
+      "nearest_other_cat_de2000": 11.903903793525549
+    },
+    {
+      "category": "blue",
+      "hex": "006aa2",
+      "nearest_other_cat_de2000": 16.155150304434766
+    },
+    {
+      "category": "blue",
+      "hex": "006c7d",
+      "nearest_other_cat_de2000": 2.7026685262517693
+    },
+    {
+      "category": "blue",
+      "hex": "006d8f",
+      "nearest_other_cat_de2000": 9.35152438726749
+    },
+    {
+      "category": "blue",
+      "hex": "0081cd",
+      "nearest_other_cat_de2000": 21.0599821262781
+    },
+    {
+      "category": "blue",
+      "hex": "0084bc",
+      "nearest_other_cat_de2000": 17.46754519245887
+    },
+    {
+      "category": "blue",
+      "hex": "0087a8",
+      "nearest_other_cat_de2000": 12.508711787187774
+    },
+    {
+      "category": "blue",
+      "hex": "0089a0",
+      "nearest_other_cat_de2000": 10.70266698559868
+    },
+    {
+      "category": "blue",
+      "hex": "008b98",
+      "nearest_other_cat_de2000": 7.802459098217445
+    },
+    {
+      "category": "blue",
+      "hex": "008c8e",
+      "nearest_other_cat_de2000": 3.275390627663544
+    },
+    {
+      "category": "blue",
+      "hex": "00a5ba",
+      "nearest_other_cat_de2000": 3.689250755809168
+    },
+    {
+      "category": "blue",
+      "hex": "0162b2",
+      "nearest_other_cat_de2000": 16.716703262027767
+    },
+    {
+      "category": "blue",
+      "hex": "033646",
+      "nearest_other_cat_de2000": 8.05125057458953
+    },
+    {
+      "category": "blue",
+      "hex": "0785ac",
+      "nearest_other_cat_de2000": 13.540832558610603
+    },
+    {
+      "category": "blue",
+      "hex": "19a2c2",
+      "nearest_other_cat_de2000": 7.838124447975025
+    },
+    {
+      "category": "blue",
+      "hex": "239fd7",
+      "nearest_other_cat_de2000": 15.092848126823489
+    },
+    {
+      "category": "blue",
+      "hex": "272870",
+      "nearest_other_cat_de2000": 5.537409449711833
+    },
+    {
+      "category": "blue",
+      "hex": "337dce",
+      "nearest_other_cat_de2000": 17.13038650877915
+    },
+    {
+      "category": "blue",
+      "hex": "373e97",
+      "nearest_other_cat_de2000": 6.338623170675424
+    },
+    {
+      "category": "blue",
+      "hex": "39a0c6",
+      "nearest_other_cat_de2000": 10.829699379856086
+    },
+    {
+      "category": "blue",
+      "hex": "4c5ab1",
+      "nearest_other_cat_de2000": 7.317855654381538
+    },
+    {
+      "category": "blue",
+      "hex": "4d9bda",
+      "nearest_other_cat_de2000": 17.91767742490169
+    },
+    {
+      "category": "blue",
+      "hex": "6697db",
+      "nearest_other_cat_de2000": 14.419128016151522
+    },
+    {
+      "category": "blue",
+      "hex": "6976be",
+      "nearest_other_cat_de2000": 6.266928134573723
+    },
+    {
+      "category": "blue",
+      "hex": "69b8e4",
+      "nearest_other_cat_de2000": 10.724447784878295
+    },
+    {
+      "category": "blue",
+      "hex": "6dbad0",
+      "nearest_other_cat_de2000": 3.9835549251964455
+    },
+    {
+      "category": "blue",
+      "hex": "76b9d3",
+      "nearest_other_cat_de2000": 6.381328407289745
+    },
+    {
+      "category": "blue",
+      "hex": "7db5e7",
+      "nearest_other_cat_de2000": 14.334026100476002
+    },
+    {
+      "category": "blue",
+      "hex": "8792cb",
+      "nearest_other_cat_de2000": 4.942292999188806
+    },
+    {
+      "category": "blue",
+      "hex": "8cb2e8",
+      "nearest_other_cat_de2000": 12.968051282285378
+    },
+    {
+      "category": "blue",
+      "hex": "9ad5d1",
+      "nearest_other_cat_de2000": 2.3800637882170066
+    },
+    {
+      "category": "blue",
+      "hex": "9ad5d7",
+      "nearest_other_cat_de2000": 4.843824480789841
+    },
+    {
+      "category": "blue",
+      "hex": "9bd4db",
+      "nearest_other_cat_de2000": 7.037578191284398
+    },
+    {
+      "category": "blue",
+      "hex": "a0d2df",
+      "nearest_other_cat_de2000": 9.008262301410184
+    },
+    {
+      "category": "blue",
+      "hex": "a4aed9",
+      "nearest_other_cat_de2000": 4.606017356678772
+    },
+    {
+      "category": "blue",
+      "hex": "a4cff5",
+      "nearest_other_cat_de2000": 11.81332997982868
+    },
+    {
+      "category": "blue",
+      "hex": "a6d1e1",
+      "nearest_other_cat_de2000": 10.530644479959793
+    },
+    {
+      "category": "blue",
+      "hex": "adcfe4",
+      "nearest_other_cat_de2000": 9.854735152913094
+    },
+    {
+      "category": "blue",
+      "hex": "afccf7",
+      "nearest_other_cat_de2000": 8.186923301049289
+    },
+    {
+      "category": "blue",
+      "hex": "ccece6",
+      "nearest_other_cat_de2000": 2.855916640625027
+    },
+    {
+      "category": "blue",
+      "hex": "ccece9",
+      "nearest_other_cat_de2000": 4.160014436482246
+    },
+    {
+      "category": "blue",
+      "hex": "ccede3",
+      "nearest_other_cat_de2000": 1.176534150937339
+    },
+    {
+      "category": "blue",
+      "hex": "cdedde",
+      "nearest_other_cat_de2000": 0.8031172884786829
+    },
+    {
+      "category": "blue",
+      "hex": "ceebeb",
+      "nearest_other_cat_de2000": 5.740774765325819
+    },
+    {
+      "category": "blue",
+      "hex": "d0eaee",
+      "nearest_other_cat_de2000": 7.003467770456057
+    },
+    {
+      "category": "blue",
+      "hex": "d3eaef",
+      "nearest_other_cat_de2000": 5.820189989710645
+    },
+    {
+      "category": "blue",
+      "hex": "d6e9ef",
+      "nearest_other_cat_de2000": 4.239873512726944
+    },
+    {
+      "category": "blue",
+      "hex": "d9e8f0",
+      "nearest_other_cat_de2000": 2.2430606660401367
+    },
+    {
+      "category": "brown",
+      "hex": "3a3020",
+      "nearest_other_cat_de2000": 2.2043209973690168
+    },
+    {
+      "category": "brown",
+      "hex": "3c2f21",
+      "nearest_other_cat_de2000": 4.660215817160968
+    },
+    {
+      "category": "brown",
+      "hex": "472b12",
+      "nearest_other_cat_de2000": 11.120527419269653
+    },
+    {
+      "category": "brown",
+      "hex": "4a2917",
+      "nearest_other_cat_de2000": 13.558168793961212
+    },
+    {
+      "category": "brown",
+      "hex": "4c281d",
+      "nearest_other_cat_de2000": 10.483652698849477
+    },
+    {
+      "category": "brown",
+      "hex": "50491d",
+      "nearest_other_cat_de2000": 2.1805625393418695
+    },
+    {
+      "category": "brown",
+      "hex": "55471e",
+      "nearest_other_cat_de2000": 5.504925180829871
+    },
+    {
+      "category": "brown",
+      "hex": "57201a",
+      "nearest_other_cat_de2000": 5.484552976991293
+    },
+    {
+      "category": "brown",
+      "hex": "594620",
+      "nearest_other_cat_de2000": 8.077892551587308
+    },
+    {
+      "category": "brown",
+      "hex": "634208",
+      "nearest_other_cat_de2000": 12.72144350952007
+    },
+    {
+      "category": "brown",
+      "hex": "683f11",
+      "nearest_other_cat_de2000": 15.46315746089493
+    },
+    {
+      "category": "brown",
+      "hex": "6d3c19",
+      "nearest_other_cat_de2000": 11.166042554158468
+    },
+    {
+      "category": "brown",
+      "hex": "736015",
+      "nearest_other_cat_de2000": 2.968733883355774
+    },
+    {
+      "category": "brown",
+      "hex": "79340e",
+      "nearest_other_cat_de2000": 6.969867587312259
+    },
+    {
+      "category": "brown",
+      "hex": "795d1a",
+      "nearest_other_cat_de2000": 6.6474777511319445
+    },
+    {
+      "category": "brown",
+      "hex": "7f5a21",
+      "nearest_other_cat_de2000": 10.761391833806321
+    },
+    {
+      "category": "brown",
+      "hex": "8b550e",
+      "nearest_other_cat_de2000": 15.032980849724588
+    },
+    {
+      "category": "brown",
+      "hex": "91511b",
+      "nearest_other_cat_de2000": 12.262345615840504
+    },
+    {
+      "category": "brown",
+      "hex": "927900",
+      "nearest_other_cat_de2000": 3.521964958153264
+    },
+    {
+      "category": "brown",
+      "hex": "9a760e",
+      "nearest_other_cat_de2000": 7.343168732934916
+    },
+    {
+      "category": "brown",
+      "hex": "9e490f",
+      "nearest_other_cat_de2000": 7.814442354478592
+    },
+    {
+      "category": "brown",
+      "hex": "a67100",
+      "nearest_other_cat_de2000": 9.54857483546361
+    },
+    {
+      "category": "brown",
+      "hex": "ae6c00",
+      "nearest_other_cat_de2000": 9.797595496475342
+    },
+    {
+      "category": "brown",
+      "hex": "bb6400",
+      "nearest_other_cat_de2000": 5.738483231879168
+    },
+    {
+      "category": "gold",
+      "hex": "b09300",
+      "nearest_other_cat_de2000": 3.825392770697787
+    },
+    {
+      "category": "gold",
+      "hex": "bb8f00",
+      "nearest_other_cat_de2000": 5.610267765480787
+    },
+    {
+      "category": "gray",
+      "hex": "333222",
+      "nearest_other_cat_de2000": 1.4653375271471236
+    },
+    {
+      "category": "gray",
+      "hex": "484848",
+      "nearest_other_cat_de2000": 7.5366718124561665
+    },
+    {
+      "category": "gray",
+      "hex": "616161",
+      "nearest_other_cat_de2000": 16.243033864205977
+    },
+    {
+      "category": "gray",
+      "hex": "7b7b7b",
+      "nearest_other_cat_de2000": 20.001047474125993
+    },
+    {
+      "category": "gray",
+      "hex": "959595",
+      "nearest_other_cat_de2000": 17.67919052506257
+    },
+    {
+      "category": "gray",
+      "hex": "afafaf",
+      "nearest_other_cat_de2000": 13.480773495957292
+    },
+    {
+      "category": "gray",
+      "hex": "cacaca",
+      "nearest_other_cat_de2000": 8.21641872809422
+    },
+    {
+      "category": "gray",
+      "hex": "dfe6f0",
+      "nearest_other_cat_de2000": 1.5716765008448863
+    },
+    {
+      "category": "gray",
+      "hex": "e5e5e5",
+      "nearest_other_cat_de2000": 2.9747375408764607
+    },
+    {
+      "category": "gray",
+      "hex": "e8e4ee",
+      "nearest_other_cat_de2000": 0.5782490702514756
+    },
+    {
+      "category": "green",
+      "hex": "00383b",
+      "nearest_other_cat_de2000": 3.6508624943450645
+    },
+    {
+      "category": "green",
+      "hex": "003b26",
+      "nearest_other_cat_de2000": 13.890248582124626
+    },
+    {
+      "category": "green",
+      "hex": "003b2b",
+      "nearest_other_cat_de2000": 13.432109121367944
+    },
+    {
+      "category": "green",
+      "hex": "003b2f",
+      "nearest_other_cat_de2000": 11.751186147066893
+    },
+    {
+      "category": "green",
+      "hex": "00544b",
+      "nearest_other_cat_de2000": 7.376516355840911
+    },
+    {
+      "category": "green",
+      "hex": "005452",
+      "nearest_other_cat_de2000": 4.049846449871526
+    },
+    {
+      "category": "green",
+      "hex": "00562d",
+      "nearest_other_cat_de2000": 17.79363652946004
+    },
+    {
+      "category": "green",
+      "hex": "005637",
+      "nearest_other_cat_de2000": 15.152078313731955
+    },
+    {
+      "category": "green",
+      "hex": "005644",
+      "nearest_other_cat_de2000": 11.294399001712506
+    },
+    {
+      "category": "green",
+      "hex": "00593c",
+      "nearest_other_cat_de2000": 13.91027464190262
+    },
+    {
+      "category": "green",
+      "hex": "007264",
+      "nearest_other_cat_de2000": 4.649886640189052
+    },
+    {
+      "category": "green",
+      "hex": "007438",
+      "nearest_other_cat_de2000": 18.482269273721542
+    },
+    {
+      "category": "green",
+      "hex": "007448",
+      "nearest_other_cat_de2000": 14.647572109842216
+    },
+    {
+      "category": "green",
+      "hex": "007452",
+      "nearest_other_cat_de2000": 11.74697539233383
+    },
+    {
+      "category": "green",
+      "hex": "00755a",
+      "nearest_other_cat_de2000": 9.460778333452021
+    },
+    {
+      "category": "green",
+      "hex": "009018",
+      "nearest_other_cat_de2000": 22.459720733940205
+    },
+    {
+      "category": "green",
+      "hex": "00905f",
+      "nearest_other_cat_de2000": 12.308973768999495
+    },
+    {
+      "category": "green",
+      "hex": "009069",
+      "nearest_other_cat_de2000": 10.344960194677782
+    },
+    {
+      "category": "green",
+      "hex": "009072",
+      "nearest_other_cat_de2000": 8.670724371986832
+    },
+    {
+      "category": "green",
+      "hex": "00907c",
+      "nearest_other_cat_de2000": 5.373851290119239
+    },
+    {
+      "category": "green",
+      "hex": "009246",
+      "nearest_other_cat_de2000": 16.824800028694487
+    },
+    {
+      "category": "green",
+      "hex": "00ab77",
+      "nearest_other_cat_de2000": 8.781319784671359
+    },
+    {
+      "category": "green",
+      "hex": "00ab81",
+      "nearest_other_cat_de2000": 6.259881347121196
+    },
+    {
+      "category": "green",
+      "hex": "00ab8a",
+      "nearest_other_cat_de2000": 3.765914418151031
+    },
+    {
+      "category": "green",
+      "hex": "023838",
+      "nearest_other_cat_de2000": 5.279599519343537
+    },
+    {
+      "category": "green",
+      "hex": "063833",
+      "nearest_other_cat_de2000": 7.916918091058082
+    },
+    {
+      "category": "green",
+      "hex": "163826",
+      "nearest_other_cat_de2000": 10.57213025174598
+    },
+    {
+      "category": "green",
+      "hex": "1c3720",
+      "nearest_other_cat_de2000": 9.509965967914805
+    },
+    {
+      "category": "green",
+      "hex": "1faa64",
+      "nearest_other_cat_de2000": 12.796275560957914
+    },
+    {
+      "category": "green",
+      "hex": "215227",
+      "nearest_other_cat_de2000": 16.382477062328128
+    },
+    {
+      "category": "green",
+      "hex": "22371a",
+      "nearest_other_cat_de2000": 9.014575734108265
+    },
+    {
+      "category": "green",
+      "hex": "246f2a",
+      "nearest_other_cat_de2000": 20.57689052996044
+    },
+    {
+      "category": "green",
+      "hex": "2e511b",
+      "nearest_other_cat_de2000": 13.342698013653195
+    },
+    {
+      "category": "green",
+      "hex": "32ab35",
+      "nearest_other_cat_de2000": 19.256721680840283
+    },
+    {
+      "category": "green",
+      "hex": "3a6e14",
+      "nearest_other_cat_de2000": 18.38028366346469
+    },
+    {
+      "category": "green",
+      "hex": "404d25",
+      "nearest_other_cat_de2000": 8.383144409904075
+    },
+    {
+      "category": "green",
+      "hex": "464c20",
+      "nearest_other_cat_de2000": 5.481895010642104
+    },
+    {
+      "category": "green",
+      "hex": "48c67b",
+      "nearest_other_cat_de2000": 10.480698399447947
+    },
+    {
+      "category": "green",
+      "hex": "4a8a0b",
+      "nearest_other_cat_de2000": 21.597997619672835
+    },
+    {
+      "category": "green",
+      "hex": "4c4a1d",
+      "nearest_other_cat_de2000": 2.1805625393418695
+    },
+    {
+      "category": "green",
+      "hex": "4fc39c",
+      "nearest_other_cat_de2000": 2.517617703423047
+    },
+    {
+      "category": "green",
+      "hex": "546921",
+      "nearest_other_cat_de2000": 13.341549717178005
+    },
+    {
+      "category": "green",
+      "hex": "58c394",
+      "nearest_other_cat_de2000": 4.969416702559085
+    },
+    {
+      "category": "green",
+      "hex": "5ba800",
+      "nearest_other_cat_de2000": 21.061440153195218
+    },
+    {
+      "category": "green",
+      "hex": "5d6618",
+      "nearest_other_cat_de2000": 9.642667930476389
+    },
+    {
+      "category": "green",
+      "hex": "666412",
+      "nearest_other_cat_de2000": 6.060762074194954
+    },
+    {
+      "category": "green",
+      "hex": "698518",
+      "nearest_other_cat_de2000": 15.391514139883062
+    },
+    {
+      "category": "green",
+      "hex": "69c360",
+      "nearest_other_cat_de2000": 15.876471654675136
+    },
+    {
+      "category": "green",
+      "hex": "6d6212",
+      "nearest_other_cat_de2000": 2.968733883355774
+    },
+    {
+      "category": "green",
+      "hex": "768201",
+      "nearest_other_cat_de2000": 11.093529409980789
+    },
+    {
+      "category": "green",
+      "hex": "7fa100",
+      "nearest_other_cat_de2000": 15.092572455049407
+    },
+    {
+      "category": "green",
+      "hex": "7fde9c",
+      "nearest_other_cat_de2000": 9.817502382351881
+    },
+    {
+      "category": "green",
+      "hex": "817f00",
+      "nearest_other_cat_de2000": 7.178142237651788
+    },
+    {
+      "category": "green",
+      "hex": "81c147",
+      "nearest_other_cat_de2000": 16.689187936276277
+    },
+    {
+      "category": "green",
+      "hex": "85dbb9",
+      "nearest_other_cat_de2000": 2.2533319011844726
+    },
+    {
+      "category": "green",
+      "hex": "89dbb2",
+      "nearest_other_cat_de2000": 4.426421697777376
+    },
+    {
+      "category": "green",
+      "hex": "8a7c00",
+      "nearest_other_cat_de2000": 3.521964958153264
+    },
+    {
+      "category": "green",
+      "hex": "909d00",
+      "nearest_other_cat_de2000": 11.462857090286045
+    },
+    {
+      "category": "green",
+      "hex": "93dc88",
+      "nearest_other_cat_de2000": 14.22026530143465
+    },
+    {
+      "category": "green",
+      "hex": "97be00",
+      "nearest_other_cat_de2000": 11.74967288692615
+    },
+    {
+      "category": "green",
+      "hex": "9cdc5e",
+      "nearest_other_cat_de2000": 12.041958277717423
+    },
+    {
+      "category": "green",
+      "hex": "9d9a00",
+      "nearest_other_cat_de2000": 7.427086876112566
+    },
+    {
+      "category": "green",
+      "hex": "a79700",
+      "nearest_other_cat_de2000": 3.825392770697787
+    },
+    {
+      "category": "green",
+      "hex": "aab900",
+      "nearest_other_cat_de2000": 8.285566696147992
+    },
+    {
+      "category": "green",
+      "hex": "b6d744",
+      "nearest_other_cat_de2000": 9.569663139234894
+    },
+    {
+      "category": "green",
+      "hex": "b9b500",
+      "nearest_other_cat_de2000": 3.8497230102611213
+    },
+    {
+      "category": "green",
+      "hex": "c5d500",
+      "nearest_other_cat_de2000": 4.551762732786669
+    },
+    {
+      "category": "green",
+      "hex": "ccede0",
+      "nearest_other_cat_de2000": 0.8031172884786829
+    },
+    {
+      "category": "green",
+      "hex": "cfeddb",
+      "nearest_other_cat_de2000": 1.236090515323113
+    },
+    {
+      "category": "green",
+      "hex": "d1ecd6",
+      "nearest_other_cat_de2000": 2.8928996403654037
+    },
+    {
+      "category": "green",
+      "hex": "d5ecd1",
+      "nearest_other_cat_de2000": 4.932172160782915
+    },
+    {
+      "category": "green",
+      "hex": "dbebcc",
+      "nearest_other_cat_de2000": 7.253620415943988
+    },
+    {
+      "category": "green",
+      "hex": "dfecac",
+      "nearest_other_cat_de2000": 5.787876094947121
+    },
+    {
+      "category": "orange",
+      "hex": "c88900",
+      "nearest_other_cat_de2000": 5.610267765480787
+    },
+    {
+      "category": "orange",
+      "hex": "ca5a00",
+      "nearest_other_cat_de2000": 5.738483231879168
+    },
+    {
+      "category": "orange",
+      "hex": "d28400",
+      "nearest_other_cat_de2000": 9.797595496475342
+    },
+    {
+      "category": "orange",
+      "hex": "db7e15",
+      "nearest_other_cat_de2000": 9.595620939331052
+    },
+    {
+      "category": "orange",
+      "hex": "dc4800",
+      "nearest_other_cat_de2000": 9.053101342179888
+    },
+    {
+      "category": "orange",
+      "hex": "eaa200",
+      "nearest_other_cat_de2000": 5.705355353802578
+    },
+    {
+      "category": "orange",
+      "hex": "ec7059",
+      "nearest_other_cat_de2000": 5.679072847829211
+    },
+    {
+      "category": "orange",
+      "hex": "f07000",
+      "nearest_other_cat_de2000": 11.279226436595875
+    },
+    {
+      "category": "orange",
+      "hex": "f46c2f",
+      "nearest_other_cat_de2000": 13.026853350407519
+    },
+    {
+      "category": "orange",
+      "hex": "f59c00",
+      "nearest_other_cat_de2000": 10.15888199544515
+    },
+    {
+      "category": "orange",
+      "hex": "f7985f",
+      "nearest_other_cat_de2000": 10.85126941925109
+    },
+    {
+      "category": "orange",
+      "hex": "f8bf91",
+      "nearest_other_cat_de2000": 7.768528724101443
+    },
+    {
+      "category": "orange",
+      "hex": "fb956d",
+      "nearest_other_cat_de2000": 5.6886234065331545
+    },
+    {
+      "category": "orange",
+      "hex": "fcbc99",
+      "nearest_other_cat_de2000": 3.373035723689315
+    },
+    {
+      "category": "orange",
+      "hex": "febe72",
+      "nearest_other_cat_de2000": 10.96736354633416
+    },
+    {
+      "category": "orange",
+      "hex": "ff9500",
+      "nearest_other_cat_de2000": 14.195155185677944
+    },
+    {
+      "category": "pink",
+      "hex": "ac3363",
+      "nearest_other_cat_de2000": 4.066237701427469
+    },
+    {
+      "category": "pink",
+      "hex": "b91f56",
+      "nearest_other_cat_de2000": 4.73551428388699
+    },
+    {
+      "category": "pink",
+      "hex": "c55286",
+      "nearest_other_cat_de2000": 4.862387772776125
+    },
+    {
+      "category": "pink",
+      "hex": "cd7bab",
+      "nearest_other_cat_de2000": 3.5168495588426953
+    },
+    {
+      "category": "pink",
+      "hex": "d4467b",
+      "nearest_other_cat_de2000": 8.67923599089323
+    },
+    {
+      "category": "pink",
+      "hex": "d4799c",
+      "nearest_other_cat_de2000": 8.115740512804472
+    },
+    {
+      "category": "pink",
+      "hex": "d7456b",
+      "nearest_other_cat_de2000": 4.127164349991598
+    },
+    {
+      "category": "pink",
+      "hex": "d99dc9",
+      "nearest_other_cat_de2000": 3.1677109226215987
+    },
+    {
+      "category": "pink",
+      "hex": "e3bfe2",
+      "nearest_other_cat_de2000": 6.645020783570173
+    },
+    {
+      "category": "pink",
+      "hex": "e56f92",
+      "nearest_other_cat_de2000": 11.963272178478235
+    },
+    {
+      "category": "pink",
+      "hex": "e96e84",
+      "nearest_other_cat_de2000": 10.462403530448624
+    },
+    {
+      "category": "pink",
+      "hex": "e999ac",
+      "nearest_other_cat_de2000": 12.536574533504755
+    },
+    {
+      "category": "pink",
+      "hex": "eabddd",
+      "nearest_other_cat_de2000": 8.588232369225091
+    },
+    {
+      "category": "pink",
+      "hex": "eb6d77",
+      "nearest_other_cat_de2000": 9.820476910123507
+    },
+    {
+      "category": "pink",
+      "hex": "eb95c4",
+      "nearest_other_cat_de2000": 7.383588444181616
+    },
+    {
+      "category": "pink",
+      "hex": "ec6e6a",
+      "nearest_other_cat_de2000": 5.679072847829211
+    },
+    {
+      "category": "pink",
+      "hex": "ec99a2",
+      "nearest_other_cat_de2000": 15.736088972565756
+    },
+    {
+      "category": "pink",
+      "hex": "ece3eb",
+      "nearest_other_cat_de2000": 0.9368685073065609
+    },
+    {
+      "category": "pink",
+      "hex": "ee989a",
+      "nearest_other_cat_de2000": 13.673536493093847
+    },
+    {
+      "category": "pink",
+      "hex": "eee2e8",
+      "nearest_other_cat_de2000": 0.8202025713469011
+    },
+    {
+      "category": "pink",
+      "hex": "ef9892",
+      "nearest_other_cat_de2000": 11.01460527979752
+    },
+    {
+      "category": "pink",
+      "hex": "f0bcd5",
+      "nearest_other_cat_de2000": 10.288224888528765
+    },
+    {
+      "category": "pink",
+      "hex": "f0e2e6",
+      "nearest_other_cat_de2000": 1.7309964825323743
+    },
+    {
+      "category": "pink",
+      "hex": "f1e2e3",
+      "nearest_other_cat_de2000": 2.8243466513776836
+    },
+    {
+      "category": "pink",
+      "hex": "f1e2e4",
+      "nearest_other_cat_de2000": 2.510611161237219
+    },
+    {
+      "category": "pink",
+      "hex": "f293b6",
+      "nearest_other_cat_de2000": 10.962157049749562
+    },
+    {
+      "category": "pink",
+      "hex": "f2e2e1",
+      "nearest_other_cat_de2000": 3.7315782658225474
+    },
+    {
+      "category": "pink",
+      "hex": "f3e2df",
+      "nearest_other_cat_de2000": 3.6661446560501956
+    },
+    {
+      "category": "pink",
+      "hex": "f4e2dd",
+      "nearest_other_cat_de2000": 2.7259522002109366
+    },
+    {
+      "category": "pink",
+      "hex": "f5bbcd",
+      "nearest_other_cat_de2000": 12.31561297253706
+    },
+    {
+      "category": "pink",
+      "hex": "f5e2db",
+      "nearest_other_cat_de2000": 1.815238647636801
+    },
+    {
+      "category": "pink",
+      "hex": "f7bac6",
+      "nearest_other_cat_de2000": 13.688966274933296
+    },
+    {
+      "category": "pink",
+      "hex": "fabac0",
+      "nearest_other_cat_de2000": 15.174189103295165
+    },
+    {
+      "category": "pink",
+      "hex": "fbbab9",
+      "nearest_other_cat_de2000": 12.649545329790032
+    },
+    {
+      "category": "pink",
+      "hex": "fdbab3",
+      "nearest_other_cat_de2000": 10.399425196438365
+    },
+    {
+      "category": "pink",
+      "hex": "fe927c",
+      "nearest_other_cat_de2000": 5.6886234065331545
+    },
+    {
+      "category": "pink",
+      "hex": "febaab",
+      "nearest_other_cat_de2000": 7.425450918376552
+    },
+    {
+      "category": "pink",
+      "hex": "febba1",
+      "nearest_other_cat_de2000": 3.373035723689315
+    },
+    {
+      "category": "purple",
+      "hex": "382760",
+      "nearest_other_cat_de2000": 5.537409449711833
+    },
+    {
+      "category": "purple",
+      "hex": "43235b",
+      "nearest_other_cat_de2000": 9.035140979686412
+    },
+    {
+      "category": "purple",
+      "hex": "46254a",
+      "nearest_other_cat_de2000": 13.742166298957551
+    },
+    {
+      "category": "purple",
+      "hex": "492057",
+      "nearest_other_cat_de2000": 11.278406161787055
+    },
+    {
+      "category": "purple",
+      "hex": "4a2347",
+      "nearest_other_cat_de2000": 15.247699571238657
+    },
+    {
+      "category": "purple",
+      "hex": "503b87",
+      "nearest_other_cat_de2000": 6.338623170675424
+    },
+    {
+      "category": "purple",
+      "hex": "571848",
+      "nearest_other_cat_de2000": 17.020323788246582
+    },
+    {
+      "category": "purple",
+      "hex": "5a1641",
+      "nearest_other_cat_de2000": 14.9230152606945
+    },
+    {
+      "category": "purple",
+      "hex": "5c143c",
+      "nearest_other_cat_de2000": 13.453510575535585
+    },
+    {
+      "category": "purple",
+      "hex": "5e1336",
+      "nearest_other_cat_de2000": 11.661293921539608
+    },
+    {
+      "category": "purple",
+      "hex": "5e3581",
+      "nearest_other_cat_de2000": 10.54193982323406
+    },
+    {
+      "category": "purple",
+      "hex": "60112e",
+      "nearest_other_cat_de2000": 9.717458031988661
+    },
+    {
+      "category": "purple",
+      "hex": "61131d",
+      "nearest_other_cat_de2000": 5.484552976991293
+    },
+    {
+      "category": "purple",
+      "hex": "621126",
+      "nearest_other_cat_de2000": 8.41620262180185
+    },
+    {
+      "category": "purple",
+      "hex": "6656a0",
+      "nearest_other_cat_de2000": 7.317855654381538
+    },
+    {
+      "category": "purple",
+      "hex": "67317b",
+      "nearest_other_cat_de2000": 13.256316905519215
+    },
+    {
+      "category": "purple",
+      "hex": "6f2d75",
+      "nearest_other_cat_de2000": 15.581883981241802
+    },
+    {
+      "category": "purple",
+      "hex": "745199",
+      "nearest_other_cat_de2000": 11.860913306090405
+    },
+    {
+      "category": "purple",
+      "hex": "76296e",
+      "nearest_other_cat_de2000": 15.019682304066512
+    },
+    {
+      "category": "purple",
+      "hex": "7d2463",
+      "nearest_other_cat_de2000": 12.387229443123292
+    },
+    {
+      "category": "purple",
+      "hex": "7e4e94",
+      "nearest_other_cat_de2000": 14.937050087312489
+    },
+    {
+      "category": "purple",
+      "hex": "7e71ba",
+      "nearest_other_cat_de2000": 6.266928134573723
+    },
+    {
+      "category": "purple",
+      "hex": "822158",
+      "nearest_other_cat_de2000": 10.236979512699763
+    },
+    {
+      "category": "purple",
+      "hex": "861e4e",
+      "nearest_other_cat_de2000": 8.130730211130524
+    },
+    {
+      "category": "purple",
+      "hex": "874a8c",
+      "nearest_other_cat_de2000": 14.67429340896011
+    },
+    {
+      "category": "purple",
+      "hex": "891c42",
+      "nearest_other_cat_de2000": 4.005305514966612
+    },
+    {
+      "category": "purple",
+      "hex": "8c6db5",
+      "nearest_other_cat_de2000": 10.731989250624066
+    },
+    {
+      "category": "purple",
+      "hex": "958ec8",
+      "nearest_other_cat_de2000": 4.942292999188806
+    },
+    {
+      "category": "purple",
+      "hex": "973f8b",
+      "nearest_other_cat_de2000": 12.035258802034848
+    },
+    {
+      "category": "purple",
+      "hex": "9769ae",
+      "nearest_other_cat_de2000": 14.262182118631708
+    },
+    {
+      "category": "purple",
+      "hex": "a03a7f",
+      "nearest_other_cat_de2000": 8.374961891747036
+    },
+    {
+      "category": "purple",
+      "hex": "a18bc5",
+      "nearest_other_cat_de2000": 9.008685197712857
+    },
+    {
+      "category": "purple",
+      "hex": "a265a6",
+      "nearest_other_cat_de2000": 11.854808581165322
+    },
+    {
+      "category": "purple",
+      "hex": "a73570",
+      "nearest_other_cat_de2000": 4.066237701427469
+    },
+    {
+      "category": "purple",
+      "hex": "aa88bf",
+      "nearest_other_cat_de2000": 11.004242483195288
+    },
+    {
+      "category": "purple",
+      "hex": "afabd7",
+      "nearest_other_cat_de2000": 4.606017356678772
+    },
+    {
+      "category": "purple",
+      "hex": "b45aa4",
+      "nearest_other_cat_de2000": 8.71721117538515
+    },
+    {
+      "category": "purple",
+      "hex": "b7a9d3",
+      "nearest_other_cat_de2000": 7.9502835872725806
+    },
+    {
+      "category": "purple",
+      "hex": "bd5697",
+      "nearest_other_cat_de2000": 4.862387772776125
+    },
+    {
+      "category": "purple",
+      "hex": "be80c0",
+      "nearest_other_cat_de2000": 6.844284898245696
+    },
+    {
+      "category": "purple",
+      "hex": "bea7cf",
+      "nearest_other_cat_de2000": 8.085587767056474
+    },
+    {
+      "category": "purple",
+      "hex": "c3c9e5",
+      "nearest_other_cat_de2000": 8.186923301049289
+    },
+    {
+      "category": "purple",
+      "hex": "c67db6",
+      "nearest_other_cat_de2000": 3.5168495588426953
+    },
+    {
+      "category": "purple",
+      "hex": "c9c8e3",
+      "nearest_other_cat_de2000": 8.796170039624775
+    },
+    {
+      "category": "purple",
+      "hex": "cfc6e2",
+      "nearest_other_cat_de2000": 8.126688634545866
+    },
+    {
+      "category": "purple",
+      "hex": "d19fd1",
+      "nearest_other_cat_de2000": 3.1677109226215987
+    },
+    {
+      "category": "purple",
+      "hex": "d3c5df",
+      "nearest_other_cat_de2000": 6.645020783570173
+    },
+    {
+      "category": "purple",
+      "hex": "ede3e9",
+      "nearest_other_cat_de2000": 0.8202025713469011
+    },
+    {
+      "category": "red",
+      "hex": "882511",
+      "nearest_other_cat_de2000": 6.969867587312259
+    },
+    {
+      "category": "red",
+      "hex": "8b1b37",
+      "nearest_other_cat_de2000": 4.005305514966612
+    },
+    {
+      "category": "red",
+      "hex": "8b1d2b",
+      "nearest_other_cat_de2000": 8.564666807309475
+    },
+    {
+      "category": "red",
+      "hex": "940816",
+      "nearest_other_cat_de2000": 11.776717133449027
+    },
+    {
+      "category": "red",
+      "hex": "b53100",
+      "nearest_other_cat_de2000": 7.814442354478592
+    },
+    {
+      "category": "red",
+      "hex": "ba2721",
+      "nearest_other_cat_de2000": 13.66324830882917
+    },
+    {
+      "category": "red",
+      "hex": "bc1e47",
+      "nearest_other_cat_de2000": 4.73551428388699
+    },
+    {
+      "category": "red",
+      "hex": "bc2134",
+      "nearest_other_cat_de2000": 10.74954419575931
+    },
+    {
+      "category": "red",
+      "hex": "d9445d",
+      "nearest_other_cat_de2000": 4.127164349991598
+    },
+    {
+      "category": "red",
+      "hex": "da464a",
+      "nearest_other_cat_de2000": 9.746852964146877
+    },
+    {
+      "category": "red",
+      "hex": "da4836",
+      "nearest_other_cat_de2000": 9.053101342179888
+    },
+    {
+      "category": "silver",
+      "hex": "dde7f0",
+      "nearest_other_cat_de2000": 1.5716765008448863
+    },
+    {
+      "category": "silver",
+      "hex": "e3e5f0",
+      "nearest_other_cat_de2000": 2.6010515710634903
+    },
+    {
+      "category": "silver",
+      "hex": "e5e4ef",
+      "nearest_other_cat_de2000": 1.3824301375825354
+    },
+    {
+      "category": "silver",
+      "hex": "e7e4ef",
+      "nearest_other_cat_de2000": 0.5782490702514756
+    },
+    {
+      "category": "silver",
+      "hex": "f3f3f3",
+      "nearest_other_cat_de2000": 2.9747375408764607
+    },
+    {
+      "category": "turquoise",
+      "hex": "005359",
+      "nearest_other_cat_de2000": 3.546502858983933
+    },
+    {
+      "category": "turquoise",
+      "hex": "006d78",
+      "nearest_other_cat_de2000": 2.7026685262517693
+    },
+    {
+      "category": "turquoise",
+      "hex": "00716e",
+      "nearest_other_cat_de2000": 4.649886640189052
+    },
+    {
+      "category": "turquoise",
+      "hex": "007177",
+      "nearest_other_cat_de2000": 5.278169300201447
+    },
+    {
+      "category": "turquoise",
+      "hex": "008c86",
+      "nearest_other_cat_de2000": 3.275390627663544
+    },
+    {
+      "category": "turquoise",
+      "hex": "00a6b1",
+      "nearest_other_cat_de2000": 3.689250755809168
+    },
+    {
+      "category": "turquoise",
+      "hex": "00a79e",
+      "nearest_other_cat_de2000": 8.003154480529382
+    },
+    {
+      "category": "turquoise",
+      "hex": "00a7a7",
+      "nearest_other_cat_de2000": 7.889096269994167
+    },
+    {
+      "category": "turquoise",
+      "hex": "02a893",
+      "nearest_other_cat_de2000": 3.765914418151031
+    },
+    {
+      "category": "turquoise",
+      "hex": "36c3b6",
+      "nearest_other_cat_de2000": 8.586541822490023
+    },
+    {
+      "category": "turquoise",
+      "hex": "3fc3ac",
+      "nearest_other_cat_de2000": 5.150194782280082
+    },
+    {
+      "category": "turquoise",
+      "hex": "47c3a4",
+      "nearest_other_cat_de2000": 2.517617703423047
+    },
+    {
+      "category": "turquoise",
+      "hex": "64bdc3",
+      "nearest_other_cat_de2000": 6.781754356450621
+    },
+    {
+      "category": "turquoise",
+      "hex": "64bebb",
+      "nearest_other_cat_de2000": 8.196715390753669
+    },
+    {
+      "category": "turquoise",
+      "hex": "66bcc9",
+      "nearest_other_cat_de2000": 3.9835549251964455
+    },
+    {
+      "category": "turquoise",
+      "hex": "7fdbc6",
+      "nearest_other_cat_de2000": 4.312051610356035
+    },
+    {
+      "category": "turquoise",
+      "hex": "82dbc0",
+      "nearest_other_cat_de2000": 2.2533319011844726
+    },
+    {
+      "category": "turquoise",
+      "hex": "9ad6cc",
+      "nearest_other_cat_de2000": 2.3800637882170066
+    },
+    {
+      "category": "yellow",
+      "hex": "c4b100",
+      "nearest_other_cat_de2000": 3.8497230102611213
+    },
+    {
+      "category": "yellow",
+      "hex": "cfad00",
+      "nearest_other_cat_de2000": 7.92042074651032
+    },
+    {
+      "category": "yellow",
+      "hex": "d5d000",
+      "nearest_other_cat_de2000": 4.551762732786669
+    },
+    {
+      "category": "yellow",
+      "hex": "dba800",
+      "nearest_other_cat_de2000": 5.705355353802578
+    },
+    {
+      "category": "yellow",
+      "hex": "dfcd00",
+      "nearest_other_cat_de2000": 7.627378538607767
+    },
+    {
+      "category": "yellow",
+      "hex": "e4ec8e",
+      "nearest_other_cat_de2000": 5.787876094947121
+    },
+    {
+      "category": "yellow",
+      "hex": "edc800",
+      "nearest_other_cat_de2000": 10.49513594823672
+    },
+    {
+      "category": "yellow",
+      "hex": "edea8c",
+      "nearest_other_cat_de2000": 7.249393804763871
+    },
+    {
+      "category": "yellow",
+      "hex": "f3e88c",
+      "nearest_other_cat_de2000": 8.532070521397666
+    },
+    {
+      "category": "yellow",
+      "hex": "f9e68e",
+      "nearest_other_cat_de2000": 9.98463290277451
+    },
+    {
+      "category": "yellow",
+      "hex": "fae4ac",
+      "nearest_other_cat_de2000": 7.9499760598407585
+    },
+    {
+      "category": "yellow",
+      "hex": "fec200",
+      "nearest_other_cat_de2000": 9.043914351697625
+    },
+    {
+      "category": "yellow",
+      "hex": "ffbd00",
+      "nearest_other_cat_de2000": 7.450796510502767
+    }
+  ]
+}

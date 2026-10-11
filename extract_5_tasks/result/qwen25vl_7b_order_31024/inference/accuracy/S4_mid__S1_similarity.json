@@ -1,0 +1,17 @@
+{
+  "ckpt": "S4_mid",
+  "task": "S1_similarity",
+  "kind": "similarity",
+  "n": 78,
+  "parsed": 78,
+  "parse_ratio": 1.0,
+  "mse": 0.0021961538461538455,
+  "mae": 0.012948717948717946,
+  "rmse": 0.04686313952515181,
+  "r2": 0.9623726407921194,
+  "pearson": 0.9813832581965762,
+  "pearson_sq": 0.9631130994685279,
+  "spearman": 0.9961247970207492,
+  "accuracy": null,
+  "f1": null
+}

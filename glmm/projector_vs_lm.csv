@@ -1,0 +1,16 @@
+kind,task,proj_probe,lm0_probe,final_probe,maxlm_probe,inf,built_in_LM,gap_final_minus_inf
+battery,S0_logamr,0.1277,0.0667,0.8859,0.8934,0.4047,0.7657,0.4812
+battery,S1_similarity,0.9649,0.7998,0.9503,0.9596,0.7856,-0.0053,0.1647
+battery,S2_ishihara,0.5359,0.0902,0.5348,0.5451,0.3587,0.0092,0.1761
+battery,S3_naming,0.8694,0.2173,0.8927,0.8979,0.678,0.0286,0.2147
+battery,S4_depth,0.2479,0.2851,0.3236,0.3408,0.3241,0.0929,-0.0005
+benchmark,circled_letter,0.9929,0.0962,0.9719,0.976,0.0575,-0.0169,0.9144
+benchmark,counting_grid_blank,0.9919,0.044,0.9342,0.9455,0.0344,-0.0464,0.8998
+benchmark,counting_grid_word,0.9946,0.044,0.9697,0.9746,0.0351,-0.0201,0.9345
+benchmark,line_plot,0.9997,0.3333,0.998,0.9988,0.234,-0.0008,0.764
+benchmark,mmvp,0.1027,0.2027,0.251,0.2595,0.4746,0.1568,-0.2236
+benchmark,nested_squares,0.9841,0.25,0.9485,0.9574,0.152,-0.0266,0.7965
+benchmark,olympic_circles,0.9953,0.198,0.9755,0.9845,0.0984,-0.0107,0.8771
+benchmark,olympic_pentagons,0.9947,0.198,0.9802,0.9878,0.0254,-0.0069,0.9548
+benchmark,subway_connections,0.9153,0.6111,0.9532,0.9613,0.229,0.0461,0.7242
+benchmark,touching_circles,0.9526,0.75,0.9928,0.9949,0.5723,0.0423,0.4205

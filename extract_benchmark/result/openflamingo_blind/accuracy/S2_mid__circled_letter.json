@@ -1,0 +1,11 @@
+{
+  "ckpt": "S2_mid",
+  "task": "circled_letter",
+  "kind": "letter",
+  "n": 624,
+  "accuracy": 0.003205128205128205,
+  "f1": 0.008333333333333333,
+  "parsed": 22,
+  "parse_ratio": 0.035256410256410256,
+  "correct": 2
+}

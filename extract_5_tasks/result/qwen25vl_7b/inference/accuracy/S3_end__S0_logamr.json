@@ -1,0 +1,11 @@
+{
+  "ckpt": "S3_end",
+  "task": "S0_logamr",
+  "kind": "logmar",
+  "n": 1800,
+  "accuracy": 0.885462962962963,
+  "exact_match": 0.8566666666666667,
+  "f1": 0.8863610393777365,
+  "correct_letters": 9563,
+  "total_letters": 10800
+}

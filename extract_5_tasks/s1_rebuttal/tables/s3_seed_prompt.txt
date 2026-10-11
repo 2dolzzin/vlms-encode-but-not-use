@@ -1,0 +1,16 @@
+S3_Color_Naming 평가에 실제로 쓰인 seed 프롬프트 (전문, 유일본)
+출처: /home/hail/HDD/vlm_inference/Task_5_stage/S3_Color_Naming/origin.json
+(학습용 prompt/origin.json과 내용 동일 확인 — 학습 시점 augmented 변형은 여기서 제외, 이 seed 원문만 해당)
+
+"<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list."
+
+구성 3부분(origin.json 원본 리스트):
+1. "What color is the 16th color in the image?"
+2. "The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver."
+3. "Choose the most similar color from this list."
+
+---
+이미지 구성 확인 (rebuttal 인용용 한 줄):
+"S3 자극 이미지는 대상 칩 1개만 담긴 336x336 단색 정사각형이며, 프롬프트가 언급하는 '왼쪽부터 15개 색'은
+이미지에 그려지지 않고 텍스트로만 제시된다 — 즉 이미지에는 16번째(대상) 색만 존재하고, 앞의 15개는
+프롬프트 문구가 이름으로 지칭하는 가상의 순서일 뿐이다."

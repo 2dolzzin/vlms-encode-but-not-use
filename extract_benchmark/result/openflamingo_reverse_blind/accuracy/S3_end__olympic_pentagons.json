@@ -1,0 +1,11 @@
+{
+  "ckpt": "S3_end",
+  "task": "olympic_pentagons",
+  "kind": "count",
+  "n": 480,
+  "accuracy": 0.0,
+  "f1": 0.0,
+  "parsed": 240,
+  "parse_ratio": 0.5,
+  "correct": 0
+}

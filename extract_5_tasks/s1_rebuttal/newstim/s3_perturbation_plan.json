@@ -1,0 +1,76 @@
+{
+  "rule": "nearest_other_cat_de2000 < 2.0 -> exclude; 2.0<=d<4.0 -> ±4; d>=4.0 -> ±8",
+  "n_exclude": 17,
+  "n_reduced": 51,
+  "n_full": 262,
+  "exclude_list": [
+    {
+      "category": "beige",
+      "hex": "f6e2d7"
+    },
+    {
+      "category": "black",
+      "hex": "353220"
+    },
+    {
+      "category": "blue",
+      "hex": "ccede3"
+    },
+    {
+      "category": "blue",
+      "hex": "cdedde"
+    },
+    {
+      "category": "gray",
+      "hex": "333222"
+    },
+    {
+      "category": "gray",
+      "hex": "dfe6f0"
+    },
+    {
+      "category": "gray",
+      "hex": "e8e4ee"
+    },
+    {
+      "category": "green",
+      "hex": "ccede0"
+    },
+    {
+      "category": "green",
+      "hex": "cfeddb"
+    },
+    {
+      "category": "pink",
+      "hex": "ece3eb"
+    },
+    {
+      "category": "pink",
+      "hex": "eee2e8"
+    },
+    {
+      "category": "pink",
+      "hex": "f0e2e6"
+    },
+    {
+      "category": "pink",
+      "hex": "f5e2db"
+    },
+    {
+      "category": "purple",
+      "hex": "ede3e9"
+    },
+    {
+      "category": "silver",
+      "hex": "dde7f0"
+    },
+    {
+      "category": "silver",
+      "hex": "e5e4ef"
+    },
+    {
+      "category": "silver",
+      "hex": "e7e4ef"
+    }
+  ]
+}

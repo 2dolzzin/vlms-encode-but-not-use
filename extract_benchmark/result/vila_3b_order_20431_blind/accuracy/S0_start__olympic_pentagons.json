@@ -1,0 +1,11 @@
+{
+  "ckpt": "S0_start",
+  "task": "olympic_pentagons",
+  "kind": "count",
+  "n": 480,
+  "accuracy": 0.08125,
+  "f1": 0.08121486054459266,
+  "parsed": 479,
+  "parse_ratio": 0.9979166666666667,
+  "correct": 39
+}

@@ -1,0 +1,3132 @@
+[
+  {
+    "id": "s3pert_beige_f3e4ca",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/beige/f3e4ca_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "beige",
+    "hex_orig": "f3e4ca",
+    "hex_pert": "fbecd2",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.9499760598407585
+  },
+  {
+    "id": "s3pert_beige_f5e3ce",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/beige/f5e3ce_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "beige",
+    "hex_orig": "f5e3ce",
+    "hex_pert": "fdebd6",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.624793429412073
+  },
+  {
+    "id": "s3pert_beige_f6e2d2",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/beige/f6e2d2_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "beige",
+    "hex_orig": "f6e2d2",
+    "hex_pert": "feeada",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.10066116732086
+  },
+  {
+    "id": "s3pert_black_272727",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/black/272727_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "black",
+    "hex_orig": "272727",
+    "hex_pert": "2f2f2f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.500476390775352
+  },
+  {
+    "id": "s3pert_black_2e3326",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/black/2e3326_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "black",
+    "hex_orig": "2e3326",
+    "hex_pert": "32372a",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.723030828680722
+  },
+  {
+    "id": "s3pert_black_303324",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/black/303324_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "black",
+    "hex_orig": "303324",
+    "hex_pert": "343728",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.4387372884137486
+  },
+  {
+    "id": "s3pert_black_313131",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/black/313131_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "black",
+    "hex_orig": "313131",
+    "hex_pert": "393939",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.5366718124561665
+  },
+  {
+    "id": "s3pert_black_383120",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/black/383120_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "black",
+    "hex_orig": "383120",
+    "hex_pert": "3c3524",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.2043209973690168
+  },
+  {
+    "id": "s3pert_blue_003167",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/003167_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "003167",
+    "hex_pert": "08396f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.763514799017763
+  },
+  {
+    "id": "s3pert_blue_003459",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/003459_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "003459",
+    "hex_pert": "083c61",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.36791753427726
+  },
+  {
+    "id": "s3pert_blue_003657",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/003657_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "003657",
+    "hex_pert": "083e5f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.349624734208739
+  },
+  {
+    "id": "s3pert_blue_003740",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/003740_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "003740",
+    "hex_pert": "043b44",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.6508624943450645
+  },
+  {
+    "id": "s3pert_blue_003743",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/003743_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "003743",
+    "hex_pert": "083f4b",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.425368487226555
+  },
+  {
+    "id": "s3pert_blue_003755",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/003755_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "003755",
+    "hex_pert": "083f5d",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.492210207510329
+  },
+  {
+    "id": "s3pert_blue_00498d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/00498d_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "00498d",
+    "hex_pert": "085195",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.606898397909005
+  },
+  {
+    "id": "s3pert_blue_004c8c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/004c8c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "004c8c",
+    "hex_pert": "085494",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.573939169674848
+  },
+  {
+    "id": "s3pert_blue_004f6e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/004f6e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "004f6e",
+    "hex_pert": "085776",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.949861299499634
+  },
+  {
+    "id": "s3pert_blue_004f7d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/004f7d_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "004f7d",
+    "hex_pert": "085785",
+    "delta": 8,
+    "nearest_other_cat_de2000": 16.878408206395644
+  },
+  {
+    "id": "s3pert_blue_00516a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/00516a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "00516a",
+    "hex_pert": "085972",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.3069140729068
+  },
+  {
+    "id": "s3pert_blue_005265",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/005265_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "005265",
+    "hex_pert": "085a6d",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.525693435900455
+  },
+  {
+    "id": "s3pert_blue_005360",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/005360_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "005360",
+    "hex_pert": "045764",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.546502858983933
+  },
+  {
+    "id": "s3pert_blue_0066a4",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/0066a4_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "0066a4",
+    "hex_pert": "086eac",
+    "delta": 8,
+    "nearest_other_cat_de2000": 17.83140498969333
+  },
+  {
+    "id": "s3pert_blue_006a93",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/006a93_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "006a93",
+    "hex_pert": "08729b",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.903903793525549
+  },
+  {
+    "id": "s3pert_blue_006aa2",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/006aa2_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "006aa2",
+    "hex_pert": "0872aa",
+    "delta": 8,
+    "nearest_other_cat_de2000": 16.155150304434766
+  },
+  {
+    "id": "s3pert_blue_006c7d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/006c7d_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "006c7d",
+    "hex_pert": "047081",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.7026685262517693
+  },
+  {
+    "id": "s3pert_blue_006d8f",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/006d8f_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "006d8f",
+    "hex_pert": "087597",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.35152438726749
+  },
+  {
+    "id": "s3pert_blue_0081cd",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/0081cd_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "0081cd",
+    "hex_pert": "0889d5",
+    "delta": 8,
+    "nearest_other_cat_de2000": 21.0599821262781
+  },
+  {
+    "id": "s3pert_blue_0084bc",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/0084bc_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "0084bc",
+    "hex_pert": "088cc4",
+    "delta": 8,
+    "nearest_other_cat_de2000": 17.46754519245887
+  },
+  {
+    "id": "s3pert_blue_0087a8",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/0087a8_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "0087a8",
+    "hex_pert": "088fb0",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.508711787187774
+  },
+  {
+    "id": "s3pert_blue_0089a0",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/0089a0_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "0089a0",
+    "hex_pert": "0891a8",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.70266698559868
+  },
+  {
+    "id": "s3pert_blue_008b98",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/008b98_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "008b98",
+    "hex_pert": "0893a0",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.802459098217445
+  },
+  {
+    "id": "s3pert_blue_008c8e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/008c8e_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "008c8e",
+    "hex_pert": "049092",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.275390627663544
+  },
+  {
+    "id": "s3pert_blue_00a5ba",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/00a5ba_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "00a5ba",
+    "hex_pert": "04a9be",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.689250755809168
+  },
+  {
+    "id": "s3pert_blue_0162b2",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/0162b2_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "0162b2",
+    "hex_pert": "096aba",
+    "delta": 8,
+    "nearest_other_cat_de2000": 16.716703262027767
+  },
+  {
+    "id": "s3pert_blue_033646",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/033646_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "033646",
+    "hex_pert": "0b3e4e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.05125057458953
+  },
+  {
+    "id": "s3pert_blue_0785ac",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/0785ac_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "0785ac",
+    "hex_pert": "0f8db4",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.540832558610603
+  },
+  {
+    "id": "s3pert_blue_19a2c2",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/19a2c2_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "19a2c2",
+    "hex_pert": "21aaca",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.838124447975025
+  },
+  {
+    "id": "s3pert_blue_239fd7",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/239fd7_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "239fd7",
+    "hex_pert": "2ba7df",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.092848126823489
+  },
+  {
+    "id": "s3pert_blue_272870",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/272870_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "272870",
+    "hex_pert": "2f3078",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.537409449711833
+  },
+  {
+    "id": "s3pert_blue_337dce",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/337dce_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "337dce",
+    "hex_pert": "3b85d6",
+    "delta": 8,
+    "nearest_other_cat_de2000": 17.13038650877915
+  },
+  {
+    "id": "s3pert_blue_373e97",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/373e97_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "373e97",
+    "hex_pert": "3f469f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.338623170675424
+  },
+  {
+    "id": "s3pert_blue_39a0c6",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/39a0c6_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "39a0c6",
+    "hex_pert": "41a8ce",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.829699379856086
+  },
+  {
+    "id": "s3pert_blue_4c5ab1",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/4c5ab1_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "4c5ab1",
+    "hex_pert": "5462b9",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.317855654381538
+  },
+  {
+    "id": "s3pert_blue_4d9bda",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/4d9bda_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "4d9bda",
+    "hex_pert": "55a3e2",
+    "delta": 8,
+    "nearest_other_cat_de2000": 17.91767742490169
+  },
+  {
+    "id": "s3pert_blue_6697db",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/6697db_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "6697db",
+    "hex_pert": "6e9fe3",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.419128016151522
+  },
+  {
+    "id": "s3pert_blue_6976be",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/6976be_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "6976be",
+    "hex_pert": "717ec6",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.266928134573723
+  },
+  {
+    "id": "s3pert_blue_69b8e4",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/69b8e4_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "69b8e4",
+    "hex_pert": "71c0ec",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.724447784878295
+  },
+  {
+    "id": "s3pert_blue_6dbad0",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/6dbad0_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "6dbad0",
+    "hex_pert": "71bed4",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.9835549251964455
+  },
+  {
+    "id": "s3pert_blue_76b9d3",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/76b9d3_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "76b9d3",
+    "hex_pert": "7ec1db",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.381328407289745
+  },
+  {
+    "id": "s3pert_blue_7db5e7",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/7db5e7_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "7db5e7",
+    "hex_pert": "85bdef",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.334026100476002
+  },
+  {
+    "id": "s3pert_blue_8792cb",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/8792cb_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "8792cb",
+    "hex_pert": "8f9ad3",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.942292999188806
+  },
+  {
+    "id": "s3pert_blue_8cb2e8",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/8cb2e8_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "8cb2e8",
+    "hex_pert": "94baf0",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.968051282285378
+  },
+  {
+    "id": "s3pert_blue_9ad5d1",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/9ad5d1_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "9ad5d1",
+    "hex_pert": "9ed9d5",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.3800637882170066
+  },
+  {
+    "id": "s3pert_blue_9ad5d7",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/9ad5d7_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "9ad5d7",
+    "hex_pert": "a2dddf",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.843824480789841
+  },
+  {
+    "id": "s3pert_blue_9bd4db",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/9bd4db_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "9bd4db",
+    "hex_pert": "a3dce3",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.037578191284398
+  },
+  {
+    "id": "s3pert_blue_a0d2df",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/a0d2df_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "a0d2df",
+    "hex_pert": "a8dae7",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.008262301410184
+  },
+  {
+    "id": "s3pert_blue_a4aed9",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/a4aed9_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "a4aed9",
+    "hex_pert": "acb6e1",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.606017356678772
+  },
+  {
+    "id": "s3pert_blue_a4cff5",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/a4cff5_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "a4cff5",
+    "hex_pert": "acd7fd",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.81332997982868
+  },
+  {
+    "id": "s3pert_blue_a6d1e1",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/a6d1e1_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "a6d1e1",
+    "hex_pert": "aed9e9",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.530644479959793
+  },
+  {
+    "id": "s3pert_blue_adcfe4",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/adcfe4_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "adcfe4",
+    "hex_pert": "b5d7ec",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.854735152913094
+  },
+  {
+    "id": "s3pert_blue_afccf7",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/afccf7_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "afccf7",
+    "hex_pert": "b7d4ff",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.186923301049289
+  },
+  {
+    "id": "s3pert_blue_ccece6",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/ccece6_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "ccece6",
+    "hex_pert": "d0f0ea",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.855916640625027
+  },
+  {
+    "id": "s3pert_blue_ccece9",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/ccece9_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "ccece9",
+    "hex_pert": "d4f4f1",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.160014436482246
+  },
+  {
+    "id": "s3pert_blue_ceebeb",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/ceebeb_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "ceebeb",
+    "hex_pert": "d6f3f3",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.740774765325819
+  },
+  {
+    "id": "s3pert_blue_d0eaee",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/d0eaee_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "d0eaee",
+    "hex_pert": "d8f2f6",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.003467770456057
+  },
+  {
+    "id": "s3pert_blue_d3eaef",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/d3eaef_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "d3eaef",
+    "hex_pert": "dbf2f7",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.820189989710645
+  },
+  {
+    "id": "s3pert_blue_d6e9ef",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/d6e9ef_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "d6e9ef",
+    "hex_pert": "def1f7",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.239873512726944
+  },
+  {
+    "id": "s3pert_blue_d9e8f0",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/blue/d9e8f0_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "blue",
+    "hex_orig": "d9e8f0",
+    "hex_pert": "ddecf4",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.2430606660401367
+  },
+  {
+    "id": "s3pert_brown_3a3020",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/3a3020_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "3a3020",
+    "hex_pert": "3e3424",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.2043209973690168
+  },
+  {
+    "id": "s3pert_brown_3c2f21",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/3c2f21_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "3c2f21",
+    "hex_pert": "443729",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.660215817160968
+  },
+  {
+    "id": "s3pert_brown_472b12",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/472b12_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "472b12",
+    "hex_pert": "4f331a",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.120527419269653
+  },
+  {
+    "id": "s3pert_brown_4a2917",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/4a2917_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "4a2917",
+    "hex_pert": "52311f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.558168793961212
+  },
+  {
+    "id": "s3pert_brown_4c281d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/4c281d_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "4c281d",
+    "hex_pert": "543025",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.483652698849477
+  },
+  {
+    "id": "s3pert_brown_50491d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/50491d_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "50491d",
+    "hex_pert": "544d21",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.1805625393418695
+  },
+  {
+    "id": "s3pert_brown_55471e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/55471e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "55471e",
+    "hex_pert": "5d4f26",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.504925180829871
+  },
+  {
+    "id": "s3pert_brown_57201a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/57201a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "57201a",
+    "hex_pert": "5f2822",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.484552976991293
+  },
+  {
+    "id": "s3pert_brown_594620",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/594620_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "594620",
+    "hex_pert": "614e28",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.077892551587308
+  },
+  {
+    "id": "s3pert_brown_634208",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/634208_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "634208",
+    "hex_pert": "6b4a10",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.72144350952007
+  },
+  {
+    "id": "s3pert_brown_683f11",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/683f11_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "683f11",
+    "hex_pert": "704719",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.46315746089493
+  },
+  {
+    "id": "s3pert_brown_6d3c19",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/6d3c19_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "6d3c19",
+    "hex_pert": "754421",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.166042554158468
+  },
+  {
+    "id": "s3pert_brown_736015",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/736015_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "736015",
+    "hex_pert": "776419",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.968733883355774
+  },
+  {
+    "id": "s3pert_brown_79340e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/79340e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "79340e",
+    "hex_pert": "813c16",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.969867587312259
+  },
+  {
+    "id": "s3pert_brown_795d1a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/795d1a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "795d1a",
+    "hex_pert": "816522",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.6474777511319445
+  },
+  {
+    "id": "s3pert_brown_7f5a21",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/7f5a21_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "7f5a21",
+    "hex_pert": "876229",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.761391833806321
+  },
+  {
+    "id": "s3pert_brown_8b550e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/8b550e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "8b550e",
+    "hex_pert": "935d16",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.032980849724588
+  },
+  {
+    "id": "s3pert_brown_91511b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/91511b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "91511b",
+    "hex_pert": "995923",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.262345615840504
+  },
+  {
+    "id": "s3pert_brown_927900",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/927900_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "927900",
+    "hex_pert": "967d04",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.521964958153264
+  },
+  {
+    "id": "s3pert_brown_9a760e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/9a760e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "9a760e",
+    "hex_pert": "a27e16",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.343168732934916
+  },
+  {
+    "id": "s3pert_brown_9e490f",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/9e490f_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "9e490f",
+    "hex_pert": "a65117",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.814442354478592
+  },
+  {
+    "id": "s3pert_brown_a67100",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/a67100_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "a67100",
+    "hex_pert": "ae7908",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.54857483546361
+  },
+  {
+    "id": "s3pert_brown_ae6c00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/ae6c00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "ae6c00",
+    "hex_pert": "b67408",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.797595496475342
+  },
+  {
+    "id": "s3pert_brown_bb6400",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/brown/bb6400_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "brown",
+    "hex_orig": "bb6400",
+    "hex_pert": "c36c08",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.738483231879168
+  },
+  {
+    "id": "s3pert_gold_b09300",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/gold/b09300_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "gold",
+    "hex_orig": "b09300",
+    "hex_pert": "b49704",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.825392770697787
+  },
+  {
+    "id": "s3pert_gold_bb8f00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/gold/bb8f00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "gold",
+    "hex_orig": "bb8f00",
+    "hex_pert": "c39708",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.610267765480787
+  },
+  {
+    "id": "s3pert_gray_484848",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/gray/484848_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "gray",
+    "hex_orig": "484848",
+    "hex_pert": "505050",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.5366718124561665
+  },
+  {
+    "id": "s3pert_gray_616161",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/gray/616161_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "gray",
+    "hex_orig": "616161",
+    "hex_pert": "696969",
+    "delta": 8,
+    "nearest_other_cat_de2000": 16.243033864205977
+  },
+  {
+    "id": "s3pert_gray_7b7b7b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/gray/7b7b7b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "gray",
+    "hex_orig": "7b7b7b",
+    "hex_pert": "838383",
+    "delta": 8,
+    "nearest_other_cat_de2000": 20.001047474125993
+  },
+  {
+    "id": "s3pert_gray_959595",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/gray/959595_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "gray",
+    "hex_orig": "959595",
+    "hex_pert": "9d9d9d",
+    "delta": 8,
+    "nearest_other_cat_de2000": 17.67919052506257
+  },
+  {
+    "id": "s3pert_gray_afafaf",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/gray/afafaf_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "gray",
+    "hex_orig": "afafaf",
+    "hex_pert": "b7b7b7",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.480773495957292
+  },
+  {
+    "id": "s3pert_gray_cacaca",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/gray/cacaca_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "gray",
+    "hex_orig": "cacaca",
+    "hex_pert": "d2d2d2",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.21641872809422
+  },
+  {
+    "id": "s3pert_gray_e5e5e5",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/gray/e5e5e5_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "gray",
+    "hex_orig": "e5e5e5",
+    "hex_pert": "e9e9e9",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.9747375408764607
+  },
+  {
+    "id": "s3pert_green_00383b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00383b_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00383b",
+    "hex_pert": "043c3f",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.6508624943450645
+  },
+  {
+    "id": "s3pert_green_003b26",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/003b26_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "003b26",
+    "hex_pert": "08432e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.890248582124626
+  },
+  {
+    "id": "s3pert_green_003b2b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/003b2b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "003b2b",
+    "hex_pert": "084333",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.432109121367944
+  },
+  {
+    "id": "s3pert_green_003b2f",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/003b2f_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "003b2f",
+    "hex_pert": "084337",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.751186147066893
+  },
+  {
+    "id": "s3pert_green_00544b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00544b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00544b",
+    "hex_pert": "085c53",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.376516355840911
+  },
+  {
+    "id": "s3pert_green_005452",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/005452_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "005452",
+    "hex_pert": "085c5a",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.049846449871526
+  },
+  {
+    "id": "s3pert_green_00562d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00562d_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00562d",
+    "hex_pert": "085e35",
+    "delta": 8,
+    "nearest_other_cat_de2000": 17.79363652946004
+  },
+  {
+    "id": "s3pert_green_005637",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/005637_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "005637",
+    "hex_pert": "085e3f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.152078313731955
+  },
+  {
+    "id": "s3pert_green_005644",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/005644_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "005644",
+    "hex_pert": "085e4c",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.294399001712506
+  },
+  {
+    "id": "s3pert_green_00593c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00593c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00593c",
+    "hex_pert": "086144",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.91027464190262
+  },
+  {
+    "id": "s3pert_green_007264",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/007264_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "007264",
+    "hex_pert": "087a6c",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.649886640189052
+  },
+  {
+    "id": "s3pert_green_007438",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/007438_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "007438",
+    "hex_pert": "087c40",
+    "delta": 8,
+    "nearest_other_cat_de2000": 18.482269273721542
+  },
+  {
+    "id": "s3pert_green_007448",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/007448_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "007448",
+    "hex_pert": "087c50",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.647572109842216
+  },
+  {
+    "id": "s3pert_green_007452",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/007452_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "007452",
+    "hex_pert": "087c5a",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.74697539233383
+  },
+  {
+    "id": "s3pert_green_00755a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00755a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00755a",
+    "hex_pert": "087d62",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.460778333452021
+  },
+  {
+    "id": "s3pert_green_009018",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/009018_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "009018",
+    "hex_pert": "089820",
+    "delta": 8,
+    "nearest_other_cat_de2000": 22.459720733940205
+  },
+  {
+    "id": "s3pert_green_00905f",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00905f_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00905f",
+    "hex_pert": "089867",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.308973768999495
+  },
+  {
+    "id": "s3pert_green_009069",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/009069_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "009069",
+    "hex_pert": "089871",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.344960194677782
+  },
+  {
+    "id": "s3pert_green_009072",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/009072_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "009072",
+    "hex_pert": "08987a",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.670724371986832
+  },
+  {
+    "id": "s3pert_green_00907c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00907c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00907c",
+    "hex_pert": "089884",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.373851290119239
+  },
+  {
+    "id": "s3pert_green_009246",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/009246_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "009246",
+    "hex_pert": "089a4e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 16.824800028694487
+  },
+  {
+    "id": "s3pert_green_00ab77",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00ab77_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00ab77",
+    "hex_pert": "08b37f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.781319784671359
+  },
+  {
+    "id": "s3pert_green_00ab81",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00ab81_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00ab81",
+    "hex_pert": "08b389",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.259881347121196
+  },
+  {
+    "id": "s3pert_green_00ab8a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/00ab8a_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "00ab8a",
+    "hex_pert": "04af8e",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.765914418151031
+  },
+  {
+    "id": "s3pert_green_023838",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/023838_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "023838",
+    "hex_pert": "0a4040",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.279599519343537
+  },
+  {
+    "id": "s3pert_green_063833",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/063833_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "063833",
+    "hex_pert": "0e403b",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.916918091058082
+  },
+  {
+    "id": "s3pert_green_163826",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/163826_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "163826",
+    "hex_pert": "1e402e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.57213025174598
+  },
+  {
+    "id": "s3pert_green_1c3720",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/1c3720_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "1c3720",
+    "hex_pert": "243f28",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.509965967914805
+  },
+  {
+    "id": "s3pert_green_1faa64",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/1faa64_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "1faa64",
+    "hex_pert": "27b26c",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.796275560957914
+  },
+  {
+    "id": "s3pert_green_215227",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/215227_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "215227",
+    "hex_pert": "295a2f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 16.382477062328128
+  },
+  {
+    "id": "s3pert_green_22371a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/22371a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "22371a",
+    "hex_pert": "2a3f22",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.014575734108265
+  },
+  {
+    "id": "s3pert_green_246f2a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/246f2a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "246f2a",
+    "hex_pert": "2c7732",
+    "delta": 8,
+    "nearest_other_cat_de2000": 20.57689052996044
+  },
+  {
+    "id": "s3pert_green_2e511b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/2e511b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "2e511b",
+    "hex_pert": "365923",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.342698013653195
+  },
+  {
+    "id": "s3pert_green_32ab35",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/32ab35_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "32ab35",
+    "hex_pert": "3ab33d",
+    "delta": 8,
+    "nearest_other_cat_de2000": 19.256721680840283
+  },
+  {
+    "id": "s3pert_green_3a6e14",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/3a6e14_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "3a6e14",
+    "hex_pert": "42761c",
+    "delta": 8,
+    "nearest_other_cat_de2000": 18.38028366346469
+  },
+  {
+    "id": "s3pert_green_404d25",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/404d25_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "404d25",
+    "hex_pert": "48552d",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.383144409904075
+  },
+  {
+    "id": "s3pert_green_464c20",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/464c20_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "464c20",
+    "hex_pert": "4e5428",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.481895010642104
+  },
+  {
+    "id": "s3pert_green_48c67b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/48c67b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "48c67b",
+    "hex_pert": "50ce83",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.480698399447947
+  },
+  {
+    "id": "s3pert_green_4a8a0b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/4a8a0b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "4a8a0b",
+    "hex_pert": "529213",
+    "delta": 8,
+    "nearest_other_cat_de2000": 21.597997619672835
+  },
+  {
+    "id": "s3pert_green_4c4a1d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/4c4a1d_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "4c4a1d",
+    "hex_pert": "504e21",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.1805625393418695
+  },
+  {
+    "id": "s3pert_green_4fc39c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/4fc39c_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "4fc39c",
+    "hex_pert": "53c7a0",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.517617703423047
+  },
+  {
+    "id": "s3pert_green_546921",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/546921_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "546921",
+    "hex_pert": "5c7129",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.341549717178005
+  },
+  {
+    "id": "s3pert_green_58c394",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/58c394_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "58c394",
+    "hex_pert": "60cb9c",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.969416702559085
+  },
+  {
+    "id": "s3pert_green_5ba800",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/5ba800_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "5ba800",
+    "hex_pert": "63b008",
+    "delta": 8,
+    "nearest_other_cat_de2000": 21.061440153195218
+  },
+  {
+    "id": "s3pert_green_5d6618",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/5d6618_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "5d6618",
+    "hex_pert": "656e20",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.642667930476389
+  },
+  {
+    "id": "s3pert_green_666412",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/666412_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "666412",
+    "hex_pert": "6e6c1a",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.060762074194954
+  },
+  {
+    "id": "s3pert_green_698518",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/698518_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "698518",
+    "hex_pert": "718d20",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.391514139883062
+  },
+  {
+    "id": "s3pert_green_69c360",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/69c360_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "69c360",
+    "hex_pert": "71cb68",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.876471654675136
+  },
+  {
+    "id": "s3pert_green_6d6212",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/6d6212_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "6d6212",
+    "hex_pert": "716616",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.968733883355774
+  },
+  {
+    "id": "s3pert_green_768201",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/768201_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "768201",
+    "hex_pert": "7e8a09",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.093529409980789
+  },
+  {
+    "id": "s3pert_green_7fa100",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/7fa100_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "7fa100",
+    "hex_pert": "87a908",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.092572455049407
+  },
+  {
+    "id": "s3pert_green_7fde9c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/7fde9c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "7fde9c",
+    "hex_pert": "87e6a4",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.817502382351881
+  },
+  {
+    "id": "s3pert_green_817f00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/817f00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "817f00",
+    "hex_pert": "898708",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.178142237651788
+  },
+  {
+    "id": "s3pert_green_81c147",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/81c147_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "81c147",
+    "hex_pert": "89c94f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 16.689187936276277
+  },
+  {
+    "id": "s3pert_green_85dbb9",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/85dbb9_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "85dbb9",
+    "hex_pert": "89dfbd",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.2533319011844726
+  },
+  {
+    "id": "s3pert_green_89dbb2",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/89dbb2_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "89dbb2",
+    "hex_pert": "91e3ba",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.426421697777376
+  },
+  {
+    "id": "s3pert_green_8a7c00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/8a7c00_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "8a7c00",
+    "hex_pert": "8e8004",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.521964958153264
+  },
+  {
+    "id": "s3pert_green_909d00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/909d00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "909d00",
+    "hex_pert": "98a508",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.462857090286045
+  },
+  {
+    "id": "s3pert_green_93dc88",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/93dc88_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "93dc88",
+    "hex_pert": "9be490",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.22026530143465
+  },
+  {
+    "id": "s3pert_green_97be00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/97be00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "97be00",
+    "hex_pert": "9fc608",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.74967288692615
+  },
+  {
+    "id": "s3pert_green_9cdc5e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/9cdc5e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "9cdc5e",
+    "hex_pert": "a4e466",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.041958277717423
+  },
+  {
+    "id": "s3pert_green_9d9a00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/9d9a00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "9d9a00",
+    "hex_pert": "a5a208",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.427086876112566
+  },
+  {
+    "id": "s3pert_green_a79700",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/a79700_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "a79700",
+    "hex_pert": "ab9b04",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.825392770697787
+  },
+  {
+    "id": "s3pert_green_aab900",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/aab900_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "aab900",
+    "hex_pert": "b2c108",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.285566696147992
+  },
+  {
+    "id": "s3pert_green_b6d744",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/b6d744_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "b6d744",
+    "hex_pert": "bedf4c",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.569663139234894
+  },
+  {
+    "id": "s3pert_green_b9b500",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/b9b500_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "b9b500",
+    "hex_pert": "bdb904",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.8497230102611213
+  },
+  {
+    "id": "s3pert_green_c5d500",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/c5d500_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "c5d500",
+    "hex_pert": "cddd08",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.551762732786669
+  },
+  {
+    "id": "s3pert_green_d1ecd6",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/d1ecd6_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "d1ecd6",
+    "hex_pert": "d5f0da",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.8928996403654037
+  },
+  {
+    "id": "s3pert_green_d5ecd1",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/d5ecd1_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "d5ecd1",
+    "hex_pert": "ddf4d9",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.932172160782915
+  },
+  {
+    "id": "s3pert_green_dbebcc",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/dbebcc_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "dbebcc",
+    "hex_pert": "e3f3d4",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.253620415943988
+  },
+  {
+    "id": "s3pert_green_dfecac",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/green/dfecac_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "green",
+    "hex_orig": "dfecac",
+    "hex_pert": "e7f4b4",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.787876094947121
+  },
+  {
+    "id": "s3pert_orange_c88900",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/c88900_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "c88900",
+    "hex_pert": "d09108",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.610267765480787
+  },
+  {
+    "id": "s3pert_orange_ca5a00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/ca5a00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "ca5a00",
+    "hex_pert": "d26208",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.738483231879168
+  },
+  {
+    "id": "s3pert_orange_d28400",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/d28400_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "d28400",
+    "hex_pert": "da8c08",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.797595496475342
+  },
+  {
+    "id": "s3pert_orange_db7e15",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/db7e15_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "db7e15",
+    "hex_pert": "e3861d",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.595620939331052
+  },
+  {
+    "id": "s3pert_orange_dc4800",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/dc4800_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "dc4800",
+    "hex_pert": "e45008",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.053101342179888
+  },
+  {
+    "id": "s3pert_orange_eaa200",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/eaa200_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "eaa200",
+    "hex_pert": "f2aa08",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.705355353802578
+  },
+  {
+    "id": "s3pert_orange_ec7059",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/ec7059_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "ec7059",
+    "hex_pert": "f47861",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.679072847829211
+  },
+  {
+    "id": "s3pert_orange_f07000",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/f07000_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "f07000",
+    "hex_pert": "f87808",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.279226436595875
+  },
+  {
+    "id": "s3pert_orange_f46c2f",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/f46c2f_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "f46c2f",
+    "hex_pert": "fc7437",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.026853350407519
+  },
+  {
+    "id": "s3pert_orange_f59c00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/f59c00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "f59c00",
+    "hex_pert": "fda408",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.15888199544515
+  },
+  {
+    "id": "s3pert_orange_f7985f",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/f7985f_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "f7985f",
+    "hex_pert": "ffa067",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.85126941925109
+  },
+  {
+    "id": "s3pert_orange_f8bf91",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/f8bf91_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "f8bf91",
+    "hex_pert": "ffc799",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.768528724101443
+  },
+  {
+    "id": "s3pert_orange_fb956d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/fb956d_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "fb956d",
+    "hex_pert": "ff9d75",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.6886234065331545
+  },
+  {
+    "id": "s3pert_orange_fcbc99",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/fcbc99_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "fcbc99",
+    "hex_pert": "ffc09d",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.373035723689315
+  },
+  {
+    "id": "s3pert_orange_febe72",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/febe72_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "febe72",
+    "hex_pert": "ffc67a",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.96736354633416
+  },
+  {
+    "id": "s3pert_orange_ff9500",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/orange/ff9500_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "orange",
+    "hex_orig": "ff9500",
+    "hex_pert": "ff9d08",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.195155185677944
+  },
+  {
+    "id": "s3pert_pink_ac3363",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/ac3363_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "ac3363",
+    "hex_pert": "b43b6b",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.066237701427469
+  },
+  {
+    "id": "s3pert_pink_b91f56",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/b91f56_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "b91f56",
+    "hex_pert": "c1275e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.73551428388699
+  },
+  {
+    "id": "s3pert_pink_c55286",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/c55286_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "c55286",
+    "hex_pert": "cd5a8e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.862387772776125
+  },
+  {
+    "id": "s3pert_pink_cd7bab",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/cd7bab_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "cd7bab",
+    "hex_pert": "d17faf",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.5168495588426953
+  },
+  {
+    "id": "s3pert_pink_d4467b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/d4467b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "d4467b",
+    "hex_pert": "dc4e83",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.67923599089323
+  },
+  {
+    "id": "s3pert_pink_d4799c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/d4799c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "d4799c",
+    "hex_pert": "dc81a4",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.115740512804472
+  },
+  {
+    "id": "s3pert_pink_d7456b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/d7456b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "d7456b",
+    "hex_pert": "df4d73",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.127164349991598
+  },
+  {
+    "id": "s3pert_pink_d99dc9",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/d99dc9_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "d99dc9",
+    "hex_pert": "dda1cd",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.1677109226215987
+  },
+  {
+    "id": "s3pert_pink_e3bfe2",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/e3bfe2_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "e3bfe2",
+    "hex_pert": "ebc7ea",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.645020783570173
+  },
+  {
+    "id": "s3pert_pink_e56f92",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/e56f92_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "e56f92",
+    "hex_pert": "ed779a",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.963272178478235
+  },
+  {
+    "id": "s3pert_pink_e96e84",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/e96e84_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "e96e84",
+    "hex_pert": "f1768c",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.462403530448624
+  },
+  {
+    "id": "s3pert_pink_e999ac",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/e999ac_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "e999ac",
+    "hex_pert": "f1a1b4",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.536574533504755
+  },
+  {
+    "id": "s3pert_pink_eabddd",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/eabddd_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "eabddd",
+    "hex_pert": "f2c5e5",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.588232369225091
+  },
+  {
+    "id": "s3pert_pink_eb6d77",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/eb6d77_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "eb6d77",
+    "hex_pert": "f3757f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.820476910123507
+  },
+  {
+    "id": "s3pert_pink_eb95c4",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/eb95c4_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "eb95c4",
+    "hex_pert": "f39dcc",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.383588444181616
+  },
+  {
+    "id": "s3pert_pink_ec6e6a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/ec6e6a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "ec6e6a",
+    "hex_pert": "f47672",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.679072847829211
+  },
+  {
+    "id": "s3pert_pink_ec99a2",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/ec99a2_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "ec99a2",
+    "hex_pert": "f4a1aa",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.736088972565756
+  },
+  {
+    "id": "s3pert_pink_ee989a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/ee989a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "ee989a",
+    "hex_pert": "f6a0a2",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.673536493093847
+  },
+  {
+    "id": "s3pert_pink_ef9892",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/ef9892_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "ef9892",
+    "hex_pert": "f7a09a",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.01460527979752
+  },
+  {
+    "id": "s3pert_pink_f0bcd5",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/f0bcd5_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "f0bcd5",
+    "hex_pert": "f8c4dd",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.288224888528765
+  },
+  {
+    "id": "s3pert_pink_f1e2e3",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/f1e2e3_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "f1e2e3",
+    "hex_pert": "f5e6e7",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.8243466513776836
+  },
+  {
+    "id": "s3pert_pink_f1e2e4",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/f1e2e4_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "f1e2e4",
+    "hex_pert": "f5e6e8",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.510611161237219
+  },
+  {
+    "id": "s3pert_pink_f293b6",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/f293b6_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "f293b6",
+    "hex_pert": "fa9bbe",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.962157049749562
+  },
+  {
+    "id": "s3pert_pink_f2e2e1",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/f2e2e1_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "f2e2e1",
+    "hex_pert": "f6e6e5",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.7315782658225474
+  },
+  {
+    "id": "s3pert_pink_f3e2df",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/f3e2df_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "f3e2df",
+    "hex_pert": "f7e6e3",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.6661446560501956
+  },
+  {
+    "id": "s3pert_pink_f4e2dd",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/f4e2dd_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "f4e2dd",
+    "hex_pert": "f8e6e1",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.7259522002109366
+  },
+  {
+    "id": "s3pert_pink_f5bbcd",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/f5bbcd_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "f5bbcd",
+    "hex_pert": "fdc3d5",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.31561297253706
+  },
+  {
+    "id": "s3pert_pink_f7bac6",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/f7bac6_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "f7bac6",
+    "hex_pert": "ffc2ce",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.688966274933296
+  },
+  {
+    "id": "s3pert_pink_fabac0",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/fabac0_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "fabac0",
+    "hex_pert": "ffc2c8",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.174189103295165
+  },
+  {
+    "id": "s3pert_pink_fbbab9",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/fbbab9_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "fbbab9",
+    "hex_pert": "ffc2c1",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.649545329790032
+  },
+  {
+    "id": "s3pert_pink_fdbab3",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/fdbab3_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "fdbab3",
+    "hex_pert": "ffc2bb",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.399425196438365
+  },
+  {
+    "id": "s3pert_pink_fe927c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/fe927c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "fe927c",
+    "hex_pert": "ff9a84",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.6886234065331545
+  },
+  {
+    "id": "s3pert_pink_febaab",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/febaab_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "febaab",
+    "hex_pert": "ffc2b3",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.425450918376552
+  },
+  {
+    "id": "s3pert_pink_febba1",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/pink/febba1_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "pink",
+    "hex_orig": "febba1",
+    "hex_pert": "ffbfa5",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.373035723689315
+  },
+  {
+    "id": "s3pert_purple_382760",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/382760_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "382760",
+    "hex_pert": "402f68",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.537409449711833
+  },
+  {
+    "id": "s3pert_purple_43235b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/43235b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "43235b",
+    "hex_pert": "4b2b63",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.035140979686412
+  },
+  {
+    "id": "s3pert_purple_46254a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/46254a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "46254a",
+    "hex_pert": "4e2d52",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.742166298957551
+  },
+  {
+    "id": "s3pert_purple_492057",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/492057_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "492057",
+    "hex_pert": "51285f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.278406161787055
+  },
+  {
+    "id": "s3pert_purple_4a2347",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/4a2347_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "4a2347",
+    "hex_pert": "522b4f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.247699571238657
+  },
+  {
+    "id": "s3pert_purple_503b87",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/503b87_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "503b87",
+    "hex_pert": "58438f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.338623170675424
+  },
+  {
+    "id": "s3pert_purple_571848",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/571848_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "571848",
+    "hex_pert": "5f2050",
+    "delta": 8,
+    "nearest_other_cat_de2000": 17.020323788246582
+  },
+  {
+    "id": "s3pert_purple_5a1641",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/5a1641_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "5a1641",
+    "hex_pert": "621e49",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.9230152606945
+  },
+  {
+    "id": "s3pert_purple_5c143c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/5c143c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "5c143c",
+    "hex_pert": "641c44",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.453510575535585
+  },
+  {
+    "id": "s3pert_purple_5e1336",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/5e1336_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "5e1336",
+    "hex_pert": "661b3e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.661293921539608
+  },
+  {
+    "id": "s3pert_purple_5e3581",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/5e3581_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "5e3581",
+    "hex_pert": "663d89",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.54193982323406
+  },
+  {
+    "id": "s3pert_purple_60112e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/60112e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "60112e",
+    "hex_pert": "681936",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.717458031988661
+  },
+  {
+    "id": "s3pert_purple_61131d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/61131d_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "61131d",
+    "hex_pert": "691b25",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.484552976991293
+  },
+  {
+    "id": "s3pert_purple_621126",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/621126_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "621126",
+    "hex_pert": "6a192e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.41620262180185
+  },
+  {
+    "id": "s3pert_purple_6656a0",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/6656a0_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "6656a0",
+    "hex_pert": "6e5ea8",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.317855654381538
+  },
+  {
+    "id": "s3pert_purple_67317b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/67317b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "67317b",
+    "hex_pert": "6f3983",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.256316905519215
+  },
+  {
+    "id": "s3pert_purple_6f2d75",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/6f2d75_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "6f2d75",
+    "hex_pert": "77357d",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.581883981241802
+  },
+  {
+    "id": "s3pert_purple_745199",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/745199_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "745199",
+    "hex_pert": "7c59a1",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.860913306090405
+  },
+  {
+    "id": "s3pert_purple_76296e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/76296e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "76296e",
+    "hex_pert": "7e3176",
+    "delta": 8,
+    "nearest_other_cat_de2000": 15.019682304066512
+  },
+  {
+    "id": "s3pert_purple_7d2463",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/7d2463_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "7d2463",
+    "hex_pert": "852c6b",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.387229443123292
+  },
+  {
+    "id": "s3pert_purple_7e4e94",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/7e4e94_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "7e4e94",
+    "hex_pert": "86569c",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.937050087312489
+  },
+  {
+    "id": "s3pert_purple_7e71ba",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/7e71ba_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "7e71ba",
+    "hex_pert": "8679c2",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.266928134573723
+  },
+  {
+    "id": "s3pert_purple_822158",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/822158_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "822158",
+    "hex_pert": "8a2960",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.236979512699763
+  },
+  {
+    "id": "s3pert_purple_861e4e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/861e4e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "861e4e",
+    "hex_pert": "8e2656",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.130730211130524
+  },
+  {
+    "id": "s3pert_purple_874a8c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/874a8c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "874a8c",
+    "hex_pert": "8f5294",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.67429340896011
+  },
+  {
+    "id": "s3pert_purple_891c42",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/891c42_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "891c42",
+    "hex_pert": "91244a",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.005305514966612
+  },
+  {
+    "id": "s3pert_purple_8c6db5",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/8c6db5_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "8c6db5",
+    "hex_pert": "9475bd",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.731989250624066
+  },
+  {
+    "id": "s3pert_purple_958ec8",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/958ec8_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "958ec8",
+    "hex_pert": "9d96d0",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.942292999188806
+  },
+  {
+    "id": "s3pert_purple_973f8b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/973f8b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "973f8b",
+    "hex_pert": "9f4793",
+    "delta": 8,
+    "nearest_other_cat_de2000": 12.035258802034848
+  },
+  {
+    "id": "s3pert_purple_9769ae",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/9769ae_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "9769ae",
+    "hex_pert": "9f71b6",
+    "delta": 8,
+    "nearest_other_cat_de2000": 14.262182118631708
+  },
+  {
+    "id": "s3pert_purple_a03a7f",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/a03a7f_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "a03a7f",
+    "hex_pert": "a84287",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.374961891747036
+  },
+  {
+    "id": "s3pert_purple_a18bc5",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/a18bc5_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "a18bc5",
+    "hex_pert": "a993cd",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.008685197712857
+  },
+  {
+    "id": "s3pert_purple_a265a6",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/a265a6_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "a265a6",
+    "hex_pert": "aa6dae",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.854808581165322
+  },
+  {
+    "id": "s3pert_purple_a73570",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/a73570_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "a73570",
+    "hex_pert": "af3d78",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.066237701427469
+  },
+  {
+    "id": "s3pert_purple_aa88bf",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/aa88bf_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "aa88bf",
+    "hex_pert": "b290c7",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.004242483195288
+  },
+  {
+    "id": "s3pert_purple_afabd7",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/afabd7_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "afabd7",
+    "hex_pert": "b7b3df",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.606017356678772
+  },
+  {
+    "id": "s3pert_purple_b45aa4",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/b45aa4_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "b45aa4",
+    "hex_pert": "bc62ac",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.71721117538515
+  },
+  {
+    "id": "s3pert_purple_b7a9d3",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/b7a9d3_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "b7a9d3",
+    "hex_pert": "bfb1db",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.9502835872725806
+  },
+  {
+    "id": "s3pert_purple_bd5697",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/bd5697_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "bd5697",
+    "hex_pert": "c55e9f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.862387772776125
+  },
+  {
+    "id": "s3pert_purple_be80c0",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/be80c0_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "be80c0",
+    "hex_pert": "c688c8",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.844284898245696
+  },
+  {
+    "id": "s3pert_purple_bea7cf",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/bea7cf_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "bea7cf",
+    "hex_pert": "c6afd7",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.085587767056474
+  },
+  {
+    "id": "s3pert_purple_c3c9e5",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/c3c9e5_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "c3c9e5",
+    "hex_pert": "cbd1ed",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.186923301049289
+  },
+  {
+    "id": "s3pert_purple_c67db6",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/c67db6_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "c67db6",
+    "hex_pert": "ca81ba",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.5168495588426953
+  },
+  {
+    "id": "s3pert_purple_c9c8e3",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/c9c8e3_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "c9c8e3",
+    "hex_pert": "d1d0eb",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.796170039624775
+  },
+  {
+    "id": "s3pert_purple_cfc6e2",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/cfc6e2_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "cfc6e2",
+    "hex_pert": "d7ceea",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.126688634545866
+  },
+  {
+    "id": "s3pert_purple_d19fd1",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/d19fd1_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "d19fd1",
+    "hex_pert": "d5a3d5",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.1677109226215987
+  },
+  {
+    "id": "s3pert_purple_d3c5df",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/purple/d3c5df_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "purple",
+    "hex_orig": "d3c5df",
+    "hex_pert": "dbcde7",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.645020783570173
+  },
+  {
+    "id": "s3pert_red_882511",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/882511_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "882511",
+    "hex_pert": "902d19",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.969867587312259
+  },
+  {
+    "id": "s3pert_red_8b1b37",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/8b1b37_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "8b1b37",
+    "hex_pert": "93233f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.005305514966612
+  },
+  {
+    "id": "s3pert_red_8b1d2b",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/8b1d2b_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "8b1d2b",
+    "hex_pert": "932533",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.564666807309475
+  },
+  {
+    "id": "s3pert_red_940816",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/940816_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "940816",
+    "hex_pert": "9c101e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 11.776717133449027
+  },
+  {
+    "id": "s3pert_red_b53100",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/b53100_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "b53100",
+    "hex_pert": "bd3908",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.814442354478592
+  },
+  {
+    "id": "s3pert_red_ba2721",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/ba2721_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "ba2721",
+    "hex_pert": "c22f29",
+    "delta": 8,
+    "nearest_other_cat_de2000": 13.66324830882917
+  },
+  {
+    "id": "s3pert_red_bc1e47",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/bc1e47_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "bc1e47",
+    "hex_pert": "c4264f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.73551428388699
+  },
+  {
+    "id": "s3pert_red_bc2134",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/bc2134_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "bc2134",
+    "hex_pert": "c4293c",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.74954419575931
+  },
+  {
+    "id": "s3pert_red_d9445d",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/d9445d_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "d9445d",
+    "hex_pert": "e14c65",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.127164349991598
+  },
+  {
+    "id": "s3pert_red_da464a",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/da464a_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "da464a",
+    "hex_pert": "e24e52",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.746852964146877
+  },
+  {
+    "id": "s3pert_red_da4836",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/red/da4836_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "red",
+    "hex_orig": "da4836",
+    "hex_pert": "e2503e",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.053101342179888
+  },
+  {
+    "id": "s3pert_silver_e3e5f0",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/silver/e3e5f0_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "silver",
+    "hex_orig": "e3e5f0",
+    "hex_pert": "e7e9f4",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.6010515710634903
+  },
+  {
+    "id": "s3pert_silver_f3f3f3",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/silver/f3f3f3_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "silver",
+    "hex_orig": "f3f3f3",
+    "hex_pert": "f7f7f7",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.9747375408764607
+  },
+  {
+    "id": "s3pert_turquoise_005359",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/005359_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "005359",
+    "hex_pert": "04575d",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.546502858983933
+  },
+  {
+    "id": "s3pert_turquoise_006d78",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/006d78_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "006d78",
+    "hex_pert": "04717c",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.7026685262517693
+  },
+  {
+    "id": "s3pert_turquoise_00716e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/00716e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "00716e",
+    "hex_pert": "087976",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.649886640189052
+  },
+  {
+    "id": "s3pert_turquoise_007177",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/007177_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "007177",
+    "hex_pert": "08797f",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.278169300201447
+  },
+  {
+    "id": "s3pert_turquoise_008c86",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/008c86_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "008c86",
+    "hex_pert": "04908a",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.275390627663544
+  },
+  {
+    "id": "s3pert_turquoise_00a6b1",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/00a6b1_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "00a6b1",
+    "hex_pert": "04aab5",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.689250755809168
+  },
+  {
+    "id": "s3pert_turquoise_00a79e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/00a79e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "00a79e",
+    "hex_pert": "08afa6",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.003154480529382
+  },
+  {
+    "id": "s3pert_turquoise_00a7a7",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/00a7a7_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "00a7a7",
+    "hex_pert": "08afaf",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.889096269994167
+  },
+  {
+    "id": "s3pert_turquoise_02a893",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/02a893_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "02a893",
+    "hex_pert": "06ac97",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.765914418151031
+  },
+  {
+    "id": "s3pert_turquoise_36c3b6",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/36c3b6_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "36c3b6",
+    "hex_pert": "3ecbbe",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.586541822490023
+  },
+  {
+    "id": "s3pert_turquoise_3fc3ac",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/3fc3ac_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "3fc3ac",
+    "hex_pert": "47cbb4",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.150194782280082
+  },
+  {
+    "id": "s3pert_turquoise_47c3a4",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/47c3a4_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "47c3a4",
+    "hex_pert": "4bc7a8",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.517617703423047
+  },
+  {
+    "id": "s3pert_turquoise_64bdc3",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/64bdc3_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "64bdc3",
+    "hex_pert": "6cc5cb",
+    "delta": 8,
+    "nearest_other_cat_de2000": 6.781754356450621
+  },
+  {
+    "id": "s3pert_turquoise_64bebb",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/64bebb_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "64bebb",
+    "hex_pert": "6cc6c3",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.196715390753669
+  },
+  {
+    "id": "s3pert_turquoise_66bcc9",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/66bcc9_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "66bcc9",
+    "hex_pert": "6ac0cd",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.9835549251964455
+  },
+  {
+    "id": "s3pert_turquoise_7fdbc6",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/7fdbc6_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "7fdbc6",
+    "hex_pert": "87e3ce",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.312051610356035
+  },
+  {
+    "id": "s3pert_turquoise_82dbc0",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/82dbc0_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "82dbc0",
+    "hex_pert": "86dfc4",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.2533319011844726
+  },
+  {
+    "id": "s3pert_turquoise_9ad6cc",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/turquoise/9ad6cc_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "turquoise",
+    "hex_orig": "9ad6cc",
+    "hex_pert": "9edad0",
+    "delta": 4,
+    "nearest_other_cat_de2000": 2.3800637882170066
+  },
+  {
+    "id": "s3pert_yellow_c4b100",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/c4b100_pert4.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "c4b100",
+    "hex_pert": "c8b504",
+    "delta": 4,
+    "nearest_other_cat_de2000": 3.8497230102611213
+  },
+  {
+    "id": "s3pert_yellow_cfad00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/cfad00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "cfad00",
+    "hex_pert": "d7b508",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.92042074651032
+  },
+  {
+    "id": "s3pert_yellow_d5d000",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/d5d000_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "d5d000",
+    "hex_pert": "ddd808",
+    "delta": 8,
+    "nearest_other_cat_de2000": 4.551762732786669
+  },
+  {
+    "id": "s3pert_yellow_dba800",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/dba800_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "dba800",
+    "hex_pert": "e3b008",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.705355353802578
+  },
+  {
+    "id": "s3pert_yellow_dfcd00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/dfcd00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "dfcd00",
+    "hex_pert": "e7d508",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.627378538607767
+  },
+  {
+    "id": "s3pert_yellow_e4ec8e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/e4ec8e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "e4ec8e",
+    "hex_pert": "ecf496",
+    "delta": 8,
+    "nearest_other_cat_de2000": 5.787876094947121
+  },
+  {
+    "id": "s3pert_yellow_edc800",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/edc800_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "edc800",
+    "hex_pert": "f5d008",
+    "delta": 8,
+    "nearest_other_cat_de2000": 10.49513594823672
+  },
+  {
+    "id": "s3pert_yellow_edea8c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/edea8c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "edea8c",
+    "hex_pert": "f5f294",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.249393804763871
+  },
+  {
+    "id": "s3pert_yellow_f3e88c",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/f3e88c_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "f3e88c",
+    "hex_pert": "fbf094",
+    "delta": 8,
+    "nearest_other_cat_de2000": 8.532070521397666
+  },
+  {
+    "id": "s3pert_yellow_f9e68e",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/f9e68e_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "f9e68e",
+    "hex_pert": "ffee96",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.98463290277451
+  },
+  {
+    "id": "s3pert_yellow_fae4ac",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/fae4ac_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "fae4ac",
+    "hex_pert": "ffecb4",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.9499760598407585
+  },
+  {
+    "id": "s3pert_yellow_fec200",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/fec200_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "fec200",
+    "hex_pert": "ffca08",
+    "delta": 8,
+    "nearest_other_cat_de2000": 9.043914351697625
+  },
+  {
+    "id": "s3pert_yellow_ffbd00",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_s3_perturb/yellow/ffbd00_pert8.png",
+    "question": "<image> What color is the 16th color in the image? The first 15 colors, from left to right, are : Red, Blue, Yellow, Green, Orange, Purple, Pink, Brown, Black, White, Gray, Beige, Turquoise, Gold, Silver. Choose the most similar color from this list.",
+    "answer": "yellow",
+    "hex_orig": "ffbd00",
+    "hex_pert": "ffc508",
+    "delta": 8,
+    "nearest_other_cat_de2000": 7.450796510502767
+  }
+]

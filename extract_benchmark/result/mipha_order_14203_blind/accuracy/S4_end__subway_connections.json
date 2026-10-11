@@ -1,0 +1,11 @@
+{
+  "ckpt": "S4_end",
+  "task": "subway_connections",
+  "kind": "count",
+  "n": 720,
+  "accuracy": 0.008333333333333333,
+  "f1": 0.020942408376963356,
+  "parsed": 184,
+  "parse_ratio": 0.25555555555555554,
+  "correct": 6
+}

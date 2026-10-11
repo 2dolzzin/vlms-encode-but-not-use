@@ -1,0 +1,11 @@
+{
+  "model": "qwen25vl_7b_order_31024__S2_mid",
+  "model_path": "/home/hail/vlm3/checkpoint/Qwen25VL_7B_order_31024_nohex/4_S2_Ishihara/checkpoint-1563",
+  "losses": {
+    "S0": 0.11531308652167355,
+    "S1": 0.2010999449968338,
+    "S2": 0.00012125306020257085,
+    "S3": 0.22150531692791992,
+    "S4": 2.6917946870803835
+  }
+}

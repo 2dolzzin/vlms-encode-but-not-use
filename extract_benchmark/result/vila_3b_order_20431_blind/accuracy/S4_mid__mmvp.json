@@ -1,0 +1,13 @@
+{
+  "ckpt": "S4_mid",
+  "task": "mmvp",
+  "kind": "choice",
+  "n": 300,
+  "accuracy": 0.5933333333333334,
+  "f1": 0.5732451018554561,
+  "pair_accuracy": 0.23333333333333334,
+  "n_pairs": 150,
+  "parsed": 298,
+  "parse_ratio": 0.9933333333333333,
+  "correct": 178
+}

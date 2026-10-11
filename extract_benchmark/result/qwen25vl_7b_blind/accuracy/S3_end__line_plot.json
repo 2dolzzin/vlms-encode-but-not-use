@@ -1,0 +1,11 @@
+{
+  "ckpt": "S3_end",
+  "task": "line_plot",
+  "kind": "count",
+  "n": 3600,
+  "accuracy": 0.4638888888888889,
+  "f1": 0.4318742190719939,
+  "parsed": 3282,
+  "parse_ratio": 0.9116666666666666,
+  "correct": 1670
+}

@@ -1,0 +1,11 @@
+{
+  "ckpt": "S2_end",
+  "task": "S3_naming",
+  "kind": "naming",
+  "n": 330,
+  "accuracy": 0.7666666666666667,
+  "f1": 0.638951905900503,
+  "parsed": 329,
+  "parse_ratio": 0.996969696969697,
+  "correct": 253
+}

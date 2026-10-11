@@ -1,0 +1,11 @@
+{
+  "ckpt": "S3_end",
+  "task": "subway_connections",
+  "kind": "count",
+  "n": 720,
+  "accuracy": 0.3861111111111111,
+  "f1": 0.20200130190592977,
+  "parsed": 720,
+  "parse_ratio": 1.0,
+  "correct": 278
+}

@@ -1,0 +1,11 @@
+{
+  "ckpt": "S2_mid",
+  "task": "S2_ishihara",
+  "kind": "ishihara",
+  "n": 140,
+  "accuracy": 0.7428571428571429,
+  "f1": 0.7361883612190716,
+  "parsed": 140,
+  "parse_ratio": 1.0,
+  "correct": 104
+}

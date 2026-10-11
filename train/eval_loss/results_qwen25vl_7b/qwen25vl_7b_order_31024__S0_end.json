@@ -1,0 +1,11 @@
+{
+  "model": "qwen25vl_7b_order_31024__S0_end",
+  "model_path": "/home/hail/vlm3/checkpoint/Qwen25VL_7B_order_31024_nohex/3_S0_LogMAR/end",
+  "losses": {
+    "S0": 0.11288284300828527,
+    "S1": 0.1809720978975296,
+    "S2": 1.95242804479599,
+    "S3": 0.3014848220014828,
+    "S4": 2.516535698699951
+  }
+}

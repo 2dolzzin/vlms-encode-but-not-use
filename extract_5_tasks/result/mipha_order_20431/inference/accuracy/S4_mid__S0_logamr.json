@@ -1,0 +1,11 @@
+{
+  "ckpt": "S4_mid",
+  "task": "S0_logamr",
+  "kind": "logmar",
+  "n": 1800,
+  "accuracy": 0.7630555555555556,
+  "exact_match": 0.6427777777777778,
+  "f1": 0.771661728917226,
+  "correct_letters": 8241,
+  "total_letters": 10800
+}

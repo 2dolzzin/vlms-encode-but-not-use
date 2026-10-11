@@ -1,0 +1,497 @@
+[
+  {
+    "id": "newpair_000",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ffaf_ff0067.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0767",
+    "hex_left": "00ffaf",
+    "hex_right": "ff0067",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_001",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff008d_daff00.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.1297",
+    "hex_left": "ff008d",
+    "hex_right": "daff00",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_002",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_8c00ff_dc00ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.8565",
+    "hex_left": "8c00ff",
+    "hex_right": "dc00ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_003",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_dc00ff_00ffaf.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.3765",
+    "hex_left": "dc00ff",
+    "hex_right": "00ffaf",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_004",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ffdb_0055ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.4069",
+    "hex_left": "00ffdb",
+    "hex_right": "0055ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_005",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ff85_ff0067.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0458",
+    "hex_left": "00ff85",
+    "hex_right": "ff0067",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_006",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff00ee_00ffdb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.3981",
+    "hex_left": "ff00ee",
+    "hex_right": "00ffdb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_007",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff008d_0200ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.6268",
+    "hex_left": "ff008d",
+    "hex_right": "0200ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_008",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ff85_ff00cb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0000",
+    "hex_left": "00ff85",
+    "hex_right": "ff00cb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_009",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff00ee_0200ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.6756",
+    "hex_left": "ff00ee",
+    "hex_right": "0200ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_010",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff00ee_ff0067.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.7690",
+    "hex_left": "ff00ee",
+    "hex_right": "ff0067",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_011",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_6100ff_ff00cb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.7157",
+    "hex_left": "6100ff",
+    "hex_right": "ff00cb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_012",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_8c00ff_0055ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.8494",
+    "hex_left": "8c00ff",
+    "hex_right": "0055ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_013",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff008d_ff0033.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.7904",
+    "hex_left": "ff008d",
+    "hex_right": "ff0033",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_014",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff00cb_daff00.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0585",
+    "hex_left": "ff00cb",
+    "hex_right": "daff00",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_015",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ffdb_ff00cb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.3625",
+    "hex_left": "00ffdb",
+    "hex_right": "ff00cb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_016",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ffdb_00ffaf.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.9037",
+    "hex_left": "00ffdb",
+    "hex_right": "00ffaf",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_017",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_b300ff_00ffaf.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.3543",
+    "hex_left": "b300ff",
+    "hex_right": "00ffaf",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_018",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_6100ff_0200ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.9467",
+    "hex_left": "6100ff",
+    "hex_right": "0200ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_019",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff00ee_ff0033.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.6583",
+    "hex_left": "ff00ee",
+    "hex_right": "ff0033",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_020",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff008d_00ffaf.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0420",
+    "hex_left": "ff008d",
+    "hex_right": "00ffaf",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_021",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff00cb_ff0067.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.8123",
+    "hex_left": "ff00cb",
+    "hex_right": "ff0067",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_022",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_6100ff_daff00.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0000",
+    "hex_left": "6100ff",
+    "hex_right": "daff00",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_023",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_6100ff_ff0033.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.5472",
+    "hex_left": "6100ff",
+    "hex_right": "ff0033",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_024",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ff85_daff00.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.7792",
+    "hex_left": "00ff85",
+    "hex_right": "daff00",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_025",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ff85_ff0033.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.1090",
+    "hex_left": "00ff85",
+    "hex_right": "ff0033",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_026",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff0033_0200ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.5192",
+    "hex_left": "ff0033",
+    "hex_right": "0200ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_027",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_b300ff_ff00cb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.8315",
+    "hex_left": "b300ff",
+    "hex_right": "ff00cb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_028",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_8c00ff_b300ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.9351",
+    "hex_left": "8c00ff",
+    "hex_right": "b300ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_029",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ff85_dc00ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.3551",
+    "hex_left": "00ff85",
+    "hex_right": "dc00ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_030",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_8c00ff_0200ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.8908",
+    "hex_left": "8c00ff",
+    "hex_right": "0200ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_031",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff00ee_dc00ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.9287",
+    "hex_left": "ff00ee",
+    "hex_right": "dc00ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_032",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_dc00ff_6100ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.8008",
+    "hex_left": "dc00ff",
+    "hex_right": "6100ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_033",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff00ee_ff008d.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.8448",
+    "hex_left": "ff00ee",
+    "hex_right": "ff008d",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_034",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ff85_0055ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.3136",
+    "hex_left": "00ff85",
+    "hex_right": "0055ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_035",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ffdb_ff0067.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.1380",
+    "hex_left": "00ffdb",
+    "hex_right": "ff0067",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_036",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff00ee_ff00cb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.9496",
+    "hex_left": "ff00ee",
+    "hex_right": "ff00cb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_037",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_0055ff_ff0067.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.5960",
+    "hex_left": "0055ff",
+    "hex_right": "ff0067",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_038",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_b300ff_00ffdb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.3881",
+    "hex_left": "b300ff",
+    "hex_right": "00ffdb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_039",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_0200ff_00ffaf.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.2581",
+    "hex_left": "0200ff",
+    "hex_right": "00ffaf",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_040",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ff85_2eff00.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.9010",
+    "hex_left": "00ff85",
+    "hex_right": "2eff00",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_041",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ffdb_dc00ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.4053",
+    "hex_left": "00ffdb",
+    "hex_right": "dc00ff",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_042",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_daff00_00ffaf.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.7378",
+    "hex_left": "daff00",
+    "hex_right": "00ffaf",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_043",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_8c00ff_ff00cb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.7694",
+    "hex_left": "8c00ff",
+    "hex_right": "ff00cb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_044",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_b300ff_daff00.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0000",
+    "hex_left": "b300ff",
+    "hex_right": "daff00",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_045",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ff85_00ffdb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.8397",
+    "hex_left": "00ff85",
+    "hex_right": "00ffdb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_046",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_6100ff_ff0067.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.6225",
+    "hex_left": "6100ff",
+    "hex_right": "ff0067",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_047",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_2eff00_ff0033.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0969",
+    "hex_left": "2eff00",
+    "hex_right": "ff0033",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_048",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_8c00ff_ff008d.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.7110",
+    "hex_left": "8c00ff",
+    "hex_right": "ff008d",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_049",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_2eff00_ff0067.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0307",
+    "hex_left": "2eff00",
+    "hex_right": "ff0067",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_050",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_b300ff_2eff00.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.0000",
+    "hex_left": "b300ff",
+    "hex_right": "2eff00",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_051",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_00ffdb_ff008d.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.1038",
+    "hex_left": "00ffdb",
+    "hex_right": "ff008d",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_052",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_ff008d_ff00cb.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.8922",
+    "hex_left": "ff008d",
+    "hex_right": "ff00cb",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_053",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_0200ff_ff0067.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.5872",
+    "hex_left": "0200ff",
+    "hex_right": "ff0067",
+    "gt_type": "ciede2000_proxy"
+  },
+  {
+    "id": "newpair_054",
+    "image": "/home/hail/vlm3/extract_5_tasks/s1_rebuttal/newstim/data/images_newpair/new_b300ff_dc00ff.png",
+    "question": "<image> People described pairs of colors using their hex codes. The similarity between two colors is measured on a scale from 0 to 1, where 0 means the colors are completely different, and 1 means the colors are exactly the same. Respond the similarity rating between the colors in the image.",
+    "sim_img": "0.9229",
+    "hex_left": "b300ff",
+    "hex_right": "dc00ff",
+    "gt_type": "ciede2000_proxy"
+  }
+]

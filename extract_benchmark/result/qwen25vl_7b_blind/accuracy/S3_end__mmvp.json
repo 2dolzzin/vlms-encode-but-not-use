@@ -1,0 +1,13 @@
+{
+  "ckpt": "S3_end",
+  "task": "mmvp",
+  "kind": "choice",
+  "n": 300,
+  "accuracy": 0.7433333333333333,
+  "f1": 0.7412373559162551,
+  "pair_accuracy": 0.52,
+  "n_pairs": 150,
+  "parsed": 300,
+  "parse_ratio": 1.0,
+  "correct": 223
+}

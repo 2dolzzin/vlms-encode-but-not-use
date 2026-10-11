@@ -1,0 +1,11 @@
+{
+  "model": "fwd__S0_mid",
+  "model_path": "/home/hail/vlm3/checkpoint/Qwen25VL_7B/S0_LogMAR/checkpoint-1563",
+  "losses": {
+    "S0": 0.16700888727521088,
+    "S1": 2.6159304347991945,
+    "S2": 2.47377241191864,
+    "S3": 4.635240916442871,
+    "S4": 2.792721708869934
+  }
+}

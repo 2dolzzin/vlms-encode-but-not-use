@@ -1,0 +1,11 @@
+{
+  "ckpt": "S2_end",
+  "task": "nested_squares",
+  "kind": "count",
+  "n": 240,
+  "accuracy": 0.1125,
+  "f1": 0.09241935483870968,
+  "parsed": 240,
+  "parse_ratio": 1.0,
+  "correct": 27
+}

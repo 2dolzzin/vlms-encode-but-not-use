@@ -1,0 +1,11 @@
+{
+  "ckpt": "S2_end",
+  "task": "S4_depth",
+  "kind": "depth_mcq",
+  "n": 449,
+  "accuracy": 0.0022271714922048997,
+  "f1": 0.005319148936170213,
+  "parsed": 5,
+  "parse_ratio": 0.011135857461024499,
+  "correct": 1
+}

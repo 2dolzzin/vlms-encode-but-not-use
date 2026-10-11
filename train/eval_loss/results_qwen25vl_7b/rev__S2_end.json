@@ -1,0 +1,11 @@
+{
+  "model": "rev__S2_end",
+  "model_path": "/home/hail/vlm3/checkpoint/Qwen25VL_7B_reverse/S2_Ishihara/end",
+  "losses": {
+    "S0": 2.052716858959198,
+    "S1": 2.869511113548279,
+    "S2": 8.26548920880441e-06,
+    "S3": 0.054579863137039136,
+    "S4": 0.5083140649389315
+  }
+}

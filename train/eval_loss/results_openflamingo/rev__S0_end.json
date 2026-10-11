@@ -1,0 +1,11 @@
+{
+  "model": "rev__S0_end",
+  "model_path": "/home/hail/vlm3/train/eval_loss/_tmp_out_openflamingo",
+  "losses": {
+    "S0": 0.1689382791519165,
+    "S1": 2.3619749546051025,
+    "S2": 3.133424997329712,
+    "S3": 3.3478000164031982,
+    "S4": 1.22475004196167
+  }
+}

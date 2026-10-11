@@ -1,0 +1,11 @@
+{
+  "ckpt": "S3_mid",
+  "task": "counting_grid_blank",
+  "kind": "grid",
+  "n": 264,
+  "parsed": 230,
+  "parse_ratio": 0.8712121212121212,
+  "accuracy": 0.011363636363636364,
+  "row_acc": 0.045454545454545456,
+  "col_acc": 0.05303030303030303
+}

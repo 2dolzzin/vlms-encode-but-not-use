@@ -1,0 +1,11 @@
+{
+  "ckpt": "S4_mid",
+  "task": "olympic_circles",
+  "kind": "count",
+  "n": 480,
+  "accuracy": 0.175,
+  "f1": 0.05957446808510638,
+  "parsed": 480,
+  "parse_ratio": 1.0,
+  "correct": 84
+}

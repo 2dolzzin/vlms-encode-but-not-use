@@ -1,0 +1,11 @@
+{
+  "ckpt": "S4_mid",
+  "task": "circled_letter",
+  "kind": "letter",
+  "n": 624,
+  "accuracy": 0.13782051282051283,
+  "f1": 0.12297887276141306,
+  "parsed": 622,
+  "parse_ratio": 0.9967948717948718,
+  "correct": 86
+}

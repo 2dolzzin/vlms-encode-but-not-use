@@ -1,0 +1,11 @@
+{
+  "ckpt": "S3_end",
+  "task": "touching_circles",
+  "kind": "binary",
+  "n": 1344,
+  "accuracy": 0.8370535714285714,
+  "f1": 0.8161694856185675,
+  "parsed": 1344,
+  "parse_ratio": 1.0,
+  "correct": 1125
+}
